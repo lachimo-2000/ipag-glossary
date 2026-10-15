@@ -1,0 +1,7076 @@
+{
+  "sections": [
+    {
+      "id": "IPA",
+      "roman": "I",
+      "title": "IPA: Chiến lược & Tam bảo ",
+      "description": "Các khái niệm dùng để dựng chiến lược của tổ chức và Tam bảo của đội ngũ ",
+      "count": 8
+    },
+    {
+      "id": "IPAM",
+      "roman": "II",
+      "title": "IPAM:  Dựng nhà và vận hành ",
+      "description": "Các khái niệm dùng để dựng ngôi nhà năng lực và quản trị vận hành ",
+      "count": 20
+    },
+    {
+      "id": "IPAG",
+      "roman": "III",
+      "title": "IPAG: Gia tài và Tri thức",
+      "description": "Các khái niệm dùng để dựng gia tài và kho tri thức của IPAG ",
+      "count": 6
+    },
+    {
+      "id": "EPIC",
+      "roman": "IV",
+      "title": "EPIC: Cộng sự và đội ngũ",
+      "description": "Các khái niệm dùng để dựng cộng sự và đội ngũ",
+      "count": 18
+    },
+    {
+      "id": "ILEAD",
+      "roman": "V",
+      "title": "ILEAD: Chủ nhiệm và tự chủ",
+      "description": "Các khái niệm dụng để dựng chủ nhiệm và sự tự chủ của một cá nhân",
+      "count": 6
+    }
+  ],
+  "terms": [
+    {
+      "id": "term-20",
+      "section": "IPA",
+      "key": "IPA",
+      "title": "IPA: Chiến lược & Tam bảo ",
+      "paragraphs": [
+        {
+          "index": 21,
+          "text": "Là bộ khung thiết kế để dựng chiến lược cho tổ chức và dựng Tam bảo cho đội ngũ CBNV ",
+          "runs": [
+            {
+              "text": "Là bộ khung thiết kế để dựng chiến lược cho tổ chức và dựng Tam bảo cho đội ngũ CBNV ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-22",
+      "section": "IPA",
+      "key": "IPAway",
+      "title": "IPAway: ",
+      "paragraphs": [
+        {
+          "index": 23,
+          "text": "Phương pháp quán chiếu một sự việc bao gồm 3 chữ, ba câu hỏi cần trả lời trước mỗi việc:",
+          "runs": [
+            {
+              "text": "P",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "hương pháp quán chiếu một sự việc bao gồm 3 chữ, ba câu hỏi cần trả lời trước mỗi việc:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "text": "Intention – Chủ đích: Ý nghĩa/mục đích thực sự của sự việc/hành động ",
+          "runs": [
+            {
+              "text": "Intention – Chủ đích",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": Ý nghĩa/mục đích thực sự của sự việc/hành động ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "text": "Trả lời câu hỏi: Việc này để làm gì? Cho ai? Động cơ cốt lõi là gì?",
+          "runs": [
+            {
+              "text": "Trả lời câu hỏi: Việc này để làm gì? Cho ai? Động cơ cốt lõi là gì?",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "text": "Presence – Hiện diện: Hiện diện trọn vẹn trong công việc và quan sát hiện trạng như nó đang là",
+          "runs": [
+            {
+              "text": "Presence – Hiện diện:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Hiện diện trọn vẹn",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " trong công việc",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " và quan sát hiện trạng như nó đang là",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "text": "Trả lời câu hỏi: Hiện trạng thực sự của sự việc đang như thế nào? Tôi có đang hiện diện, toàn tâm toàn ý cho công việc này không? ",
+          "runs": [
+            {
+              "text": "Trả lời câu hỏi: Hiện trạng thực sự của sự việc đang như thế nào? Tôi có đang hiện diện, toàn tâm toàn ý cho công việc này không? ",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "text": "Awareness -Tỉnh thức: Nhận biết được cơ hội và thách thức, các bước công việc mình cần thực hiên",
+          "runs": [
+            {
+              "text": "Awareness -Tỉnh thức:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Nhận biết được cơ hội và thách thức, các bước công việc mình cần thực hiên",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "text": "Trả lời câu hỏi: Việc này có cơ hội gì? Thách thức như thế nào? Bước tiếp theo cần làm gì",
+          "runs": [
+            {
+              "text": "Trả lời câu hỏi: Việc này có cơ hội gì? Thách thức như thế nào? Bước tiếp theo cần làm gì",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-31",
+      "section": "IPA",
+      "key": "Tam bảo",
+      "title": "Tam bảo: ",
+      "paragraphs": [
+        {
+          "index": 32,
+          "text": "Ba “điểm tựa” để mỗi người quay về khi gặp vướng mắc trong công việc bao gồm COL (Center of leadership) - COP (Center of practice) - COE (Center of Excellence)",
+          "runs": [
+            {
+              "text": "Ba",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "“",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "điểm tựa”",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " để mỗi người quay về khi gặp vướng mắc trong công việc",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " bao gồm COL (Center of leadership) - COP (Center",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " of practice) - COE (Center of Excellence)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-33",
+      "section": "IPA",
+      "key": "COL",
+      "title": "COL – Center of Leadership: ",
+      "paragraphs": [
+        {
+          "index": 34,
+          "text": "Đội ngũ lãnh đạo, đóng vai trò GIỮ HƯỚNG. CBNV tìm đến COL khi chưa rõ về định hướng của việc, ai là người quyết định.",
+          "runs": [
+            {
+              "text": "Đội ngũ lãnh đạo, đóng vai trò ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "GIỮ HƯỚNG",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ". CBNV tìm đến COL khi chưa rõ về định hướng của việc, ai là người quyết đ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ị",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "nh",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ".",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "text": "Câu tự hỏi: Việc này theo hướng nào? Ai đang dẫn tôi? ",
+          "runs": [
+            {
+              "text": "Câu ",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": "tự hỏi",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": ": Việc này theo hướng nào? Ai đang dẫn tôi? ",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-36",
+      "section": "IPA",
+      "key": "COP",
+      "title": "COP – Center of Practice:  ",
+      "paragraphs": [
+        {
+          "index": 37,
+          "text": "Bao gồm bộ Tứ quy, bộ chuẩn mực quản trị, bộ chuẩn mực thiết kế tổ chức và bộ chiến lược 5P, đóng vai trò GIỮ CHUẨN. CBNV tìm đến khi chưa rõ làm thế nào là đúng? Chuẩn mực nào cần tuân thủ?",
+          "runs": [
+            {
+              "text": "Bao gồm bộ Tứ quy, bộ chuẩn mực quản trị, bộ chuẩn mực thiết kế tổ chức và bộ chiến lược 5P, đóng vai trò GIỮ CHUẨN. CBNV tìm đến khi chưa rõ làm thế nào là đúng? Chuẩn mực nào cần tuân thủ?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 38,
+          "text": "Câu tự hỏi: Công việc này cần tuân theo quy định, chuẩn mực nào? Tôi đã tìm hiểu trước khi thực hiện chưa?",
+          "runs": [
+            {
+              "text": "Câu ",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": "tự hỏi",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": ": ",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": "Công việc này cần tuân theo quy định, chuẩn mực nào? Tôi đã tìm hiểu trước khi thực hiện chưa?",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-39",
+      "section": "IPA",
+      "key": "COE",
+      "title": "COE – Center of Excellence:  ",
+      "paragraphs": [
+        {
+          "index": 40,
+          "text": "Đồng nghiệp, đóng vai trò GIỮ NHỊP NGHỀ. CBNV tìm đến khi chưa rõ cách làm, cần người người cùng nghề hỗ trợ. ",
+          "runs": [
+            {
+              "text": "Đồng nghiệp",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ", đóng vai trò GIỮ NHỊP NGHỀ. CBNV tìm đến khi chưa rõ cách làm, cần người người cùng nghề hỗ trợ. ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 41,
+          "text": "Câu tự hỏi: Ai trong nghề đã làm việc này? Tôi có thể hỏi ai?",
+          "runs": [
+            {
+              "text": "Câu tự hỏi:",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " Ai trong nghề đã làm việc này? Tôi có thể hỏi ai?",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-42",
+      "section": "IPA",
+      "key": "5P",
+      "title": "5P: ",
+      "paragraphs": [
+        {
+          "index": 43,
+          "text": "Là khung dựng chiến lược phát triển bao gồm:",
+          "runs": [
+            {
+              "text": "Là khung dựng chiến lược phát triển bao gồm:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 44,
+          "text": "Strategy of Position – Định vị: Mình tạo ra giá trị gì và người nhận là ai?",
+          "runs": [
+            {
+              "text": "Strategy of Position – Định vị",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": Mình tạo ra giá trị gì v",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "à người nhận là ai?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 45,
+          "text": "Strategy of Perspectives – Thương hiệu: Mình muốn được nhìn nhận như thế nào?",
+          "runs": [
+            {
+              "text": "Strategy of Perspectives – Thương hiệu",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": Mình muốn được nhìn nhận như thế nào?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 46,
+          "text": "Strategy of Pattern of Action - Nếp làm việc: Mình xây dựng thói quen, nếp làm việc nào?",
+          "runs": [
+            {
+              "text": "Strategy of Pattern of Action - Nếp làm việc",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ":",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " Mình xây dựng thói quen, nếp làm việc nào?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 47,
+          "text": "Strategy of Principle – Nguyên tắc: Các nguyên tắc mình bắt buộc cần giữ khi thực hiện công việc",
+          "runs": [
+            {
+              "text": "Strategy of Principle – Nguyên tắc:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Các nguyên tắc mình bắt buộc cần giữ khi thực hiện công việc",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 48,
+          "text": "Strategy of Plan – Kế hoạch: Kế hoạch hành động cụ thể để kéo được 4P phía trên khớp nhau",
+          "runs": [
+            {
+              "text": "Strategy of Plan – Kế hoạch:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Kế hoạch hành động cụ thể để kéo được 4P ph",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ía",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " trên khớp nhau",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-49",
+      "section": "IPA",
+      "key": "5A",
+      "title": "5A: ",
+      "paragraphs": [
+        {
+          "index": 50,
+          "text": "Trong Strategy of Principle, 5A là bộ chuẩn mực nguyên tắc ứng xử khi người IPAG chạm tới khách hàng. Bao gồm:",
+          "runs": [
+            {
+              "text": "Trong Strategy of Principle, 5A là bộ chuẩn mực nguyên tắc ứng xử khi người IPAG chạm tới khách hàng. Bao gồm:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 51,
+          "text": "Accessible - Dễ tiếp cận: Điểm chạm dịch vụ/sản phẩm dễ tìm, dễ vào, và dễ hiểu ",
+          "runs": [
+            {
+              "text": "Accessible ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "- ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "Dễ tiếp cận",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ":",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Điểm chạm dịch vụ/sản phẩm dễ tìm, dễ vào, và dễ hiểu ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 52,
+          "text": "Advocacy - Bảo vệ lợi ích khách hàng: Đặt lợi ích thực của khách hàng lên đầu tiên ",
+          "runs": [
+            {
+              "text": "Advocacy - Bảo vệ lợi ích khách hàng:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Đặt lợi ích thực của khách hàng lên đầu tiên ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 53,
+          "text": "Authentic - Chân thật: Giữ đúng lời hứa, đúng chất lượng và giá trị đã tuyên bố",
+          "runs": [
+            {
+              "text": "Authentic - Chân thật:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Giữ đúng lời hứa, đúng chất lượng và giá trị đã tuyên bố",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 54,
+          "text": "Accommodative – Toàn diện: Giải pháp toàn diện, lắng nghe và linh hoạt điều chỉnh để đáp ứng đúng nhu cầu của khách hàng ",
+          "runs": [
+            {
+              "text": "Accommodative",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "– Toàn diện",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "Giải pháp toàn diện, lắng nghe và linh hoạt điều chỉnh để đáp ứng đúng nhu cầu của khách hàng ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 55,
+          "text": "Affordable - Hợp lý:  Đem lại giá trị vượt trội tương xứng với chi phí khách hàng bỏ ra",
+          "runs": [
+            {
+              "text": "Affordable ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "-",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Hợp lý:  ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "Đem lại giá trị vượt trội tương xứng với chi phí khách hàng bỏ ra",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-59",
+      "section": "IPAM",
+      "key": "IPAM",
+      "title": "IPAM:  Dựng nhà và vận hành ",
+      "paragraphs": [
+        {
+          "index": 60,
+          "text": "Là bộ khung thiết kế để dựng ngôi nhà năng lực cho tổ chức/từng đơn vị/cá nhân bao gồm 5 đốt:",
+          "runs": [
+            {
+              "text": "Là bộ khung thiết kế để dựng ngôi nhà năng lực cho tổ chức/từng đơn vị/cá nhân bao gồm 5 đốt:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 61,
+          "text": "Đốt 1 - Móng: Plan – Định hướng kế hoạch hành động ",
+          "runs": [
+            {
+              "text": "Đốt 1 - Móng:",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " Plan",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "–",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Định hướng kế hoạch hành động ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 62,
+          "text": "Đốt 2 - Nền: Capability – living – xây năng lực và xây chuỗi việc ",
+          "runs": [
+            {
+              "text": "Đốt 2 - Nền: ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Capability – living ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "– xây năng lực và xây chuỗi việc ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 63,
+          "text": "Đốt 3 - Cội: HWG – Dựng cội nguồn phát triển theo 3 tầng ",
+          "runs": [
+            {
+              "text": "Đốt 3 - Cội: ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "HWG ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "–",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Dựng cội nguồn phát triển theo 3 tầng ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 64,
+          "text": "Đốt 4 - Cột: 4 trục vận hành GTM – VCO – BIS – CG",
+          "runs": [
+            {
+              "text": "Đốt 4 - Cột: ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "4 t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "rục vận hành",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "GTM – VCO – BIS – CG",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 65,
+          "text": "Đối 5 - Nóc: BC – thấy toàn cảnh để ra quyết định",
+          "runs": [
+            {
+              "text": "Đối 5 - Nóc: ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "BC – thấy toàn cảnh để ra quyết đ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ịnh",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-66",
+      "section": "IPAM",
+      "key": "FC",
+      "title": "FC – Functional chain",
+      "paragraphs": [
+        {
+          "index": 67,
+          "text": "Luồng nhiệm vụ vận hành thường xuyên, ổn định và diễn ra hàng ngày (business as usual)",
+          "runs": [
+            {
+              "text": "Luồng nhiệm vụ vận hành thường xuyên, ổn định và diễn ra hàng ngày (business as usual)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-68",
+      "section": "IPAM",
+      "key": "OC",
+      "title": "OC – Opportunity chain",
+      "paragraphs": [
+        {
+          "index": 69,
+          "text": "Luồng nhiệm vụ thực hiện các dự án cải tiến, đổi mới, phát triển mang tính chiến lược và có thời hạn nhất định. OC là nơi nhân sự vượt ra khỏi phạm vi FC của mình để tạo ra các giá trị mới.",
+          "runs": [
+            {
+              "text": "L",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "uồng",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " nhiệm vụ thực hiện các dự án cải tiến, đổi mới, phát triển mang tính chiến lược và có thời hạn nhất định. OC là nơi nhân sự vượt ra khỏi phạm vi FC của mình để tạo ra các giá trị mới.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-70",
+      "section": "IPAM",
+      "key": "HWG",
+      "title": "HWG ",
+      "paragraphs": [
+        {
+          "index": 71,
+          "text": "Tháp 3 tầng Health – Wealth – Grow là kiến trúc được áp dụng cho mọi chủ thể từ người làm nghề (CBNV), đến các SBU, BU, CU trong tập đoàn, đến khách hàng. Tháp HWG là 3 tầng  nuôi dưỡng sự phát triển bền vững của tổ chức, sản phẩm và con người.",
+          "runs": [
+            {
+              "text": "Tháp 3 tầng ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Health – Wealth – Grow là kiến trúc được áp dụng cho mọi chủ thể từ người làm nghề (CBNV), đến các SBU, BU, CU trong tập đoàn",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ",",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " đến khách hàng. Tháp HWG là 3 tầng",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "  nuôi dưỡng sự phát triển bền vững của tổ chức, sản phẩm và con người.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 72,
+          "text": "H (Health - NUÔI / Sống Khỏe): Độ ổn định, sức khỏe vận hành và chất lượng đội ngũ (đo bằng chỉ số GMI).",
+          "runs": [
+            {
+              "text": "H (Health - NUÔI / Sống Khỏe):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Độ ổn định, sức khỏe vận hành và chất lượng đội ngũ (đo bằng chỉ số GMI).",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 73,
+          "text": "W (Wealth - TÍCH / Sống Giàu): Tính năng sản phẩm, dữ liệu, tài sản hữu hình & vô hình tích lũy được (đo bằng chỉ số BMI).",
+          "runs": [
+            {
+              "text": "W (Wealth - TÍCH / Sống Giàu):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Tính năng sản phẩm, dữ liệu, tài sản hữu hình & vô hình tích lũy được (đo bằng chỉ số BMI).",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 74,
+          "text": "G (Grow - TUỆ / Sống Vui): Sự trưởng thành về trí tuệ, khả năng tạo tác động và truyền lại cho thế hệ sau (đo bằng KPI/CMI).",
+          "runs": [
+            {
+              "text": "G (Grow - TUỆ / Sống Vui):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Sự trưởng thành về trí tuệ, khả năng tạo tác động và truyền lại cho thế hệ sau (đo bằng KPI/CMI).",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-75",
+      "section": "IPAM",
+      "key": "GTM",
+      "title": "GTM - Go to market",
+      "paragraphs": [
+        {
+          "index": 76,
+          "text": "GTM là chuỗi giá trị hướng ra thị trường, chịu trách nhiệm cho tăng trưởng, tiếp cận khách hàng mới và mở rộng cơ hội kinh doanh",
+          "runs": [
+            {
+              "text": "GTM là chuỗi giá trị hướng ra thị trường, chịu trách nhiệm cho tăng trưởng, tiếp cận khách hàng mới và mở rộng cơ hội kinh doanh",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-77",
+      "section": "IPAM",
+      "key": "VCO",
+      "title": "VCO - Value Chain Operation",
+      "paragraphs": [
+        {
+          "index": 78,
+          "text": "VCO là chuỗi giá trị phụ trách vận hành và đồng hành cùng khách hàng. Nếu GTM giúp có được khách hàng, thì VCO đảm bảo phục vụ khách hàng tốt",
+          "runs": [
+            {
+              "text": "VCO là chuỗi giá trị phụ trách vận hành và đồng hành cùng khách hàng. Nếu GTM giúp có được khách hàng, thì VCO đảm bảo phục vụ khách hàng tốt",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-79",
+      "section": "IPAM",
+      "key": "BIS",
+      "title": "BIS — Business Intelligent Solution",
+      "paragraphs": [
+        {
+          "index": 80,
+          "text": "Chuỗi giá trị hỗ trợ quản trị và ra quyết định thông qua hệ thống dữ liệu, thông tin.",
+          "runs": [
+            {
+              "text": "Chuỗi giá trị hỗ trợ quản trị và ra quyết định",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " thông qua hệ thống ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "dữ liệu, thông tin",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ".",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-81",
+      "section": "IPAM",
+      "key": "CG",
+      "title": "CG – Capability Guardian ",
+      "paragraphs": [
+        {
+          "index": 82,
+          "text": "Chuỗi giá trị nền tảng nội bộ, cung cấp dịch vụ dùng chung và năng lực quản trị xuyên suốt cho toàn bộ SBU trong IPAG Group — hiện gồm Fincon, Workplace, CGC, SAS, EPIC…",
+          "runs": [
+            {
+              "text": "C",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "huỗi giá trị nền tảng nội bộ, cung cấp dịch vụ dùng chung và năng lực quản trị xuyên suốt cho toàn bộ SBU trong IPAG Group — hiện gồm Fincon, Workplace, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "CGC, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "SAS,",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " EPIC…",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-83",
+      "section": "IPAM",
+      "key": "BC",
+      "title": "BC - Business Committee",
+      "paragraphs": [
+        {
+          "index": 84,
+          "text": "Hội đồng Kinh doanh, cơ quan điều hành ở cấp một công ty thành viên (SBU), nơi ra quyết định, ký duyệt và giữ nhịp tháng, quý, năm cho các SBU",
+          "runs": [
+            {
+              "text": "Hội đồng Kinh doanh, cơ quan điều hành ở cấp một công ty thành viên (SBU), nơi ra quyết định, ký duyệt và giữ nhịp tháng, quý, năm cho các SBU",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-85",
+      "section": "IPAM",
+      "key": "BU",
+      "title": "BU - Business Unit ",
+      "paragraphs": [
+        {
+          "index": 86,
+          "text": "Đơn vị kinh doanh trực tiếp ra thị trường, có tự chủ kinh tế và tự chịu trách nhiệm Lãi / Lỗ (P&L)",
+          "runs": [
+            {
+              "text": "Đơn vị kinh doanh trực tiếp ra thị trường, có tự chủ kinh tế và tự chịu trách nhiệm Lãi / Lỗ (P&L)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-87",
+      "section": "IPAM",
+      "key": "CU",
+      "title": "CU - Capability Unit ",
+      "paragraphs": [
+        {
+          "index": 88,
+          "text": "Đơn vị chuyên trách năng lực (như Nhân sự, Tài chính, IT, Pháp chế...), không giữ P&L, tạo ra năng lực để cho các BU “mượn:",
+          "runs": [
+            {
+              "text": "Đơn vị chuyên trách năng lực (như Nhân sự, Tài chính, IT, Pháp chế...), ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "không giữ P&L, tạo ra năng lực để cho các BU ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "“mượn:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-89",
+      "section": "IPAM",
+      "key": "GMI",
+      "title": "20: GMI – Grow Maturity Indicators ",
+      "paragraphs": [
+        {
+          "index": 90,
+          "text": "Bộ chỉ số đo mức độ một cá nhân thực sự sống ba nếp sống ANVIE – VNDGO – PTICARE, tức là người đó có thực sự trải nghiệm dịch vụ/sản phẩm và hiểu được trí tuệ của ba nếp sống này không?",
+          "runs": [
+            {
+              "text": "Bộ chỉ số đo mức độ một cá nhân thực sự sống ba nếp sống ANVIE – VNDGO",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " – ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "PTICARE",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ",",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " tức là người đó có thực sự trải nghiệm dịch vụ/sản phẩm ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "và hiểu được trí tuệ của",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ba nếp sống này không?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-91",
+      "section": "IPAM",
+      "key": "AMI",
+      "title": "AMI - Awareness Maturity Indicators",
+      "paragraphs": [
+        {
+          "index": 92,
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống ANVIE ",
+          "runs": [
+            {
+              "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống ANVIE ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-93",
+      "section": "IPAM",
+      "key": "VMI",
+      "title": "VMI - Value Maturity Indicators",
+      "paragraphs": [
+        {
+          "index": 94,
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống VNDGO",
+          "runs": [
+            {
+              "text": "Chỉ số thuộc bộ chỉ sổ GMI, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "đ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "o mức độ một cá nhân thực sự sống nếp sống ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "VNDGO",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-95",
+      "section": "IPAM",
+      "key": "PMI",
+      "title": "PMI - Protection Maturity Indicators",
+      "paragraphs": [
+        {
+          "index": 96,
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống PTICARE",
+          "runs": [
+            {
+              "text": "Chỉ số thuộc bộ chỉ sổ GMI, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "đ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "o mức độ một cá nhân thực sự sống nếp sống ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "PTICARE",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-97",
+      "section": "IPAM",
+      "key": "BMI",
+      "title": "BMI - Business Maturity Indicators",
+      "paragraphs": [
+        {
+          "index": 98,
+          "text": "Là bộ chỉ số đo độ trưởng thành nghề nghiệp của một cá nhân, người ấy làm nghề tới đâu, có đủ năng lực để được trao phạm vi lớn hơn chưa.",
+          "runs": [
+            {
+              "text": "Là ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "bộ ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "chỉ số đo độ trưởng thành nghề nghiệp của một ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "cá nhân, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "người ấy làm nghề tới đâu, có đủ năng lực để được trao phạm vi lớn hơn chưa",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ".",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-99",
+      "section": "IPAM",
+      "key": "KPI",
+      "title": "KPI - Key Performance Indicators",
+      "paragraphs": [
+        {
+          "index": 100,
+          "text": "Là thước đo kết quả thực thi công việc thực tế trong một kỳ, được giao trong FC và đo theo 4 mặt FCPL:",
+          "runs": [
+            {
+              "text": "Là thước đo kết quả thực thi công việc thực tế trong một kỳ, được giao",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " trong FC",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " và đo theo 4 mặt FCPL:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 101,
+          "text": "F (Financial): Chỉ tiêu Tài chính / Thu nhập thuần",
+          "runs": [
+            {
+              "text": "F (Financial):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chỉ tiêu Tài chính / Thu nhập thuần",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 102,
+          "text": "C (Client): Chỉ tiêu Khách hàng",
+          "runs": [
+            {
+              "text": "C (Client):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chỉ tiêu Khách hàng",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 103,
+          "text": "P (Product): Chỉ tiêu Sản phẩm / Dịch vụ",
+          "runs": [
+            {
+              "text": "P (Product):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chỉ tiêu Sản phẩm / Dịch vụ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 104,
+          "text": "L (Lead): Chỉ tiêu Dẫn dắt / Tự quản bản thân & đội ngũ",
+          "runs": [
+            {
+              "text": "L (Lead):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chỉ tiêu Dẫn dắt / Tự quản bản thân & đội ngũ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-105",
+      "section": "IPAM",
+      "key": "OKR",
+      "title": "OKR: Objective and Key results",
+      "paragraphs": [
+        {
+          "index": 106,
+          "text": "Chỉ số đánh giá kết quả thực thi OC ",
+          "runs": [
+            {
+              "text": "Chỉ số đánh giá kết quả thực thi OC ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-107",
+      "section": "IPAM",
+      "key": "TDSCP",
+      "title": "TDSCP ",
+      "paragraphs": [
+        {
+          "index": 108,
+          "text": "Là 5 chiều đo (5 chỉ số) trong BMI bao gồm:",
+          "runs": [
+            {
+              "text": "Là 5 chiều đo (5 chỉ số) trong BMI bao gồm:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 109,
+          "text": "T – Trust: Niềm tin vào tổ chức ",
+          "runs": [
+            {
+              "text": "T – Trust:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Niềm tin vào tổ chức ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 110,
+          "text": "D – Depth: Độ sâu của chuyên môn bao gồm Kỹ năng (Skill) và năng lực tạo ra sản phẩm có giá trị thực tế (Delivery)",
+          "runs": [
+            {
+              "text": "D",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " –",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Depth",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ":",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Độ sâu của chuyên môn bao gồm Kỹ năng (Skill) và năng lực tạo ra sản phẩm có giá trị thực tế (Delivery)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 111,
+          "text": "S – Span of Accountability:  Phạm vi chịu trách nhiệm thực tế của 1 cá nhân",
+          "runs": [
+            {
+              "text": "S",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " –",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Span of Accountability",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ":  Phạm vi chịu trách nhiệm thực tế của 1 cá nhân",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 112,
+          "text": "C – Connection reach: Tầm kết nối của một cá nhân gồm SOC – SOI – SOS",
+          "runs": [
+            {
+              "text": "C",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " –",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Connection reach",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": Tầm kết nối của một cá nh",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "â",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "n gồm SOC – SOI – SOS",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 113,
+          "text": "P – Performance: Độ chín, hiệu suất làm việc qua KPI ",
+          "runs": [
+            {
+              "text": "P",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " –",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Performance",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": Độ chín, hiệu suất làm việc qua KPI ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-114",
+      "section": "IPAM",
+      "key": "ERC",
+      "title": "ERC - Engage – Respect – Collaboration",
+      "paragraphs": [
+        {
+          "index": 115,
+          "text": "Là bộ thước đo niềm tin (chỉ số T trong TDSCP) của nhân sự đối với tổ chức. Bộ ba này được cấu thành từ 3 họ hành vi có thể quan sát và đo lường được:",
+          "runs": [
+            {
+              "text": "L",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "à bộ thước đo ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "niềm tin (chỉ số T trong TDSCP) ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "của nhân sự đối với tổ chức. Bộ ba này được cấu thành từ 3 họ hành vi có thể quan sát và",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " đo lường được:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 116,
+          "text": "E – Engage (Dấn thân): Sự chủ động bước vào công việc, tự nhận nhiệm vụ chưa ai nhận mà không đợi được giao.",
+          "runs": [
+            {
+              "text": "E – Engage (Dấn thân):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Sự chủ động bước vào công việc, tự nhận nhiệm vụ chưa ai nhận mà không đợi được giao.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 117,
+          "text": "R – Respect (Tôn trọng kỷ luật): Sự tuân thủ nếp làm việc, giữ đúng chuẩn mực và cam kết với tổ chức ngay cả khi không có người giám sát.",
+          "runs": [
+            {
+              "text": "R – Respect (Tôn trọng kỷ luật):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Sự tuân thủ nếp làm việc, giữ đúng chuẩn mực và cam kết với tổ chức ngay cả khi không có người giám sát.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 118,
+          "text": "C – Collaboration (Cộng tác): Thói quen chủ động hợp tác, hỗ trợ đồng nghiệp để công việc chung nhẹ đi.",
+          "runs": [
+            {
+              "text": "C – Collaboration (Cộng tác):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Thói quen chủ động hợp tác, hỗ trợ đồng nghiệp để công việc chung nhẹ đi.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-122",
+      "section": "IPAG",
+      "key": "IPAG",
+      "title": "IPAG: Gia tài và Tri thức",
+      "paragraphs": [
+        {
+          "index": 123,
+          "text": "IPAG là bộ khung thiết kế phục vụ việc đóng gói và lưu giữ kho tri thức, tài sản vô hình để sử dụng, lưu chuyển & kế thừa trong tập đoàn.",
+          "runs": [
+            {
+              "text": "IPAG là bộ khung thiết kế phục vụ việc đó",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ng gói và lưu giữ kho tri thức, tài sản ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "vô hình ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "để sử dụng",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ", lưu chuyển",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " & kế thừa",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " trong tập đoàn",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ".",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-124",
+      "section": "IPAG",
+      "key": "KMS",
+      "title": "KMS - Knowledge Management System ",
+      "paragraphs": [
+        {
+          "index": 125,
+          "text": "Hệ thống lưu trữ toàn bộ văn bản, quy trình, tài liệu đã được chuẩn hóa để phát hành dùng chung trong tổ chức",
+          "runs": [
+            {
+              "text": "Hệ thống lưu trữ toàn bộ văn bản, quy trình, tài liệu đã được chuẩn hóa để phát hành dùng chung trong tổ chức",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-126",
+      "section": "IPAG",
+      "key": "LMS",
+      "title": "LMS - Learning Management System",
+      "paragraphs": [
+        {
+          "index": 127,
+          "text": "Hệ thống tổ chức, quản lý và theo dõi hoạt động học tập và đào tạo",
+          "runs": [
+            {
+              "text": "Hệ thống tổ chức, quản lý và theo dõi hoạt động học tập và đào tạo",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-128",
+      "section": "IPAG",
+      "key": "CB",
+      "title": "CB – Capability Bank ",
+      "paragraphs": [
+        {
+          "index": 129,
+          "text": "Ngân hàng năng lực - bộ chuẩn năng lực Tập đoàn, các công ty thành viên (SBU), các BU, CU cần. Ngân hàng năng lực sẽ bao gồm các năng lực mà tổ chức chúng ta tự có và các năng lực mà chúng ta cần đi thuê hoặc mượn từ bên ngoài  ",
+          "runs": [
+            {
+              "text": "Ngân hàng năng lực - bộ chuẩn năng lực Tập đoàn, các công ty thành viên (SBU), các BU, CU cần. ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Ngân hàng năng lực",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " sẽ bao ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "gồm các năng lực mà tổ chức chúng ta tự có và các năng lực mà chúng ta cần đi thuê hoặc mượn từ bên ngoài ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-130",
+      "section": "IPAG",
+      "key": "SP",
+      "title": "SP - Shared Platform ",
+      "paragraphs": [
+        {
+          "index": 131,
+          "text": "Nền tảng Dùng chung bao gồm các công cụ, hạ tầng dùng chung cho nhiều công ty/đơn vị trong tập đoàn.",
+          "runs": [
+            {
+              "text": "Nền tảng Dùng chung b",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "a",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "o gồm các công cụ, hạ tầng dùng chung cho nhiều công ty/đơn vị trong tập đoàn.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-132",
+      "section": "IPAG",
+      "key": "IPAG Way",
+      "title": "IPAG Way ",
+      "paragraphs": [
+        {
+          "index": 133,
+          "text": "Là phương pháp tạo dòng chảy tri thức trong tập đoàn, để tri thức không bị \"thất thoát\" khi nhân sự chuyển giao hay nghỉ việc, IPAG Way vận hành theo đúng 5 động tác:",
+          "runs": [
+            {
+              "text": "Là phương pháp tạo dòng chảy tri thức trong tập đoàn, đ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ể tri thức không bị \"thất thoát\" khi nhân sự chuyển giao hay nghỉ việc, IPAG Way vận hành theo đúng 5 động tác:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 134,
+          "text": "•\tTích (Gom kinh nghiệm): Thu thập dữ liệu, cách làm hay từ thực tế công việc.",
+          "runs": [
+            {
+              "text": "•",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "\t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Tích (Gom kinh nghiệm):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Thu thập dữ liệu, cách làm hay từ thực tế công việc.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 135,
+          "text": "•\tĐãi (Lọc vàng bỏ rác): Sàng lọc lấy những bài học tinh túy nhất.",
+          "runs": [
+            {
+              "text": "•",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "\t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Đãi (Lọc vàng bỏ rác):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Sàng lọc lấy những bài học tinh túy nhất.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 136,
+          "text": "•\tChuẩn (Đóng gói): Biên soạn thành mẫu biểu, quy trình chuẩn mực.",
+          "runs": [
+            {
+              "text": "•",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "\t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Chuẩn (Đóng gói):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Biên soạn thành mẫu biểu, quy trình chuẩn mực.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 137,
+          "text": "•\tTrao (Truyền nghề): Đào tạo, chuyển giao lại cho đồng nghiệp.",
+          "runs": [
+            {
+              "text": "•",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "\t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Trao (Truyền nghề):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Đào tạo, chuyển giao lại cho đồng nghiệp.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 138,
+          "text": "•\tMở (Lan tỏa): Chia sẻ giá trị ra toàn hệ thống và cộng đồng.",
+          "runs": [
+            {
+              "text": "•",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "\t",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Mở (Lan tỏa):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chia sẻ giá trị ra toàn hệ thống và cộng đồng.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-142",
+      "section": "EPIC",
+      "key": "EPIC",
+      "title": "EPIC: Cộng sự và đội ngũ",
+      "paragraphs": [
+        {
+          "index": 143,
+          "text": "EPIC là viết tắt của câu tiếng Anh: Empowering People to Create Impact through Collaboration (Trao quyền cho mọi người để tạo ra tác động thông qua cộng tác)",
+          "runs": [
+            {
+              "text": "EPIC",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " là viết tắt của câu tiếng Anh: ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Empowering People to Create Impact through Collaboration",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " (Trao quyền cho mọi người để tạo ra tác động thông qua cộng tác)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 145,
+          "text": "EPIC là văn hóa và nếp làm việc công sự thông qua 4 cùng:",
+          "runs": [
+            {
+              "text": "EPIC ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "là văn hóa và nếp làm việc c",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ô",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ng sự thông qua 4 cùng:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 146,
+          "text": "E (Empowering – CÙNG TRAO QUYỀN): Giao việc đi kèm với quyền quyết định tương ứng — không giao việc rồi giữ lại quyền quyết",
+          "runs": [
+            {
+              "text": "E (Empowering – CÙNG TRAO QUYỀN):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Giao việc đi kèm với quyền quyết định tương ứng — ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "không giao việc rồi giữ lại quyền quyết",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "index": 147,
+          "text": "P (People – CÙNG TIẾP SỨC): Đưa thêm lực và đội ngũ vào hỗ trợ khi đồng nghiệp thiếu — tiếp sức là đỡ vào, không phải làm hộ",
+          "runs": [
+            {
+              "text": "P (People – CÙNG TIẾP SỨC):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Đưa thêm lực và đội ngũ vào hỗ trợ khi đồng nghiệp thiếu — ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "tiếp sức là đỡ vào, không phải làm hộ",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "index": 148,
+          "text": "I (Impact – CÙNG TẠO GIÁ TRỊ): Đo lường thành công bằng tác động thực tế để lại cho người nhận/khách hàng",
+          "runs": [
+            {
+              "text": "I (Impact – CÙNG TẠO GIÁ TRỊ):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Đo lường thành công bằng tác động thực tế để lại cho người nhận/khách hàng",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 149,
+          "text": "C (Collaboration – CÙNG CỘNG TÁC): Làm việc cùng nhau là mặc định — làm một mình là ngoại lệ cần có lý do",
+          "runs": [
+            {
+              "text": "C (Collaboration – CÙNG CỘNG TÁC):",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Làm việc cùng nhau là mặc định — ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "làm một mình là ngoại lệ cần có lý do",
+              "bold": null,
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-150",
+      "section": "EPIC",
+      "key": "5S",
+      "title": "5S – bản đồ cộng sự",
+      "paragraphs": [
+        {
+          "index": 151,
+          "text": "5S bản đồ cộng sự của một cá nhân. Khi một cá nhân được giao SOA, cần bắt buộc phải dựng kèm một đội cộng sự (working team) bao gồm: SOA – SOC – SOI – SOS – SOBC",
+          "runs": [
+            {
+              "text": "5S bản đồ c",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ộng",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " s",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ự ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "của một cá nhân. Khi một cá nhân được giao SOA, cần bắt buộc phải dựng kèm một đội cộng s",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ự",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " (working team) bao gồm: SOA – SOC – SOI – SOS – SOBC",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-152",
+      "section": "EPIC",
+      "key": "SOA",
+      "title": "SOA – Span of Accountability",
+      "paragraphs": [
+        {
+          "index": 153,
+          "text": "Phạm vi nhiệm vụ cụ thể mà một cá nhân toàn quyền làm chủ và chịu trách nhiệm đầu ra ",
+          "runs": [
+            {
+              "text": "Phạm vi nhiệm vụ cụ thể mà một cá nhân toàn quyền làm chủ và chịu trách nhiệm đầu ra ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-154",
+      "section": "EPIC",
+      "key": "SOI",
+      "title": "SOI - Span of Influence",
+      "paragraphs": [
+        {
+          "index": 155,
+          "text": "Nhóm liên quan trực tiếp đến luồng nhiệm vụ của bạn — có thể là bên phối hợp cộng tác hoặc chịu ảnh hưởng trực tiếp từ kết quả; thường là các bên trong cùng một chuỗi nhiệm vụ hoặc đầu mối liên quan.",
+          "runs": [
+            {
+              "text": "Nhóm liên quan trực tiếp đến luồng nhiệm vụ của bạn — có thể là bên phối hợp cộng tác hoặc chịu ảnh hưởng trực tiếp từ kết quả; thường là các bên trong cùng một chuỗi nhiệm vụ hoặc đầu mối liên quan.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-156",
+      "section": "EPIC",
+      "key": "SOC",
+      "title": "SOC - Span of Control",
+      "paragraphs": [
+        {
+          "index": 157,
+          "text": "Nguồn lực mà tổ chức cung cấp cho bạn để đảm nhiệm nhiệm vụ cụ thể ",
+          "runs": [
+            {
+              "text": "Nguồn lực mà tổ chức cung cấp cho bạn để đảm nhiệm nhiệm vụ cụ thể ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-158",
+      "section": "EPIC",
+      "key": "SOS",
+      "title": "SOS - Span of Support",
+      "paragraphs": [
+        {
+          "index": 159,
+          "text": "Nguồn lực mà tổ chức cung cấp để hỗ trợ bạn khi thực hiện nhiệm vụ — nhóm này bao gồm COL của bạn",
+          "runs": [
+            {
+              "text": "Nguồn lực mà tổ chức cung cấp để hỗ trợ bạn khi thực hiện nhiệm vụ — nhóm này bao gồm COL của bạn",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-160",
+      "section": "EPIC",
+      "key": "SOBC",
+      "title": "SOBC – Span of BC",
+      "paragraphs": [
+        {
+          "index": 161,
+          "text": "Line báo cáo lên Hội đồng điều hành (BC) khi công việc bị tắc hoặc vượt quá thẩm quyền tự quyết",
+          "runs": [
+            {
+              "text": "Line báo cáo lên Hội đồng điều hành (BC) khi công việc bị tắc hoặc vượt quá thẩm quyền tự quyết",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-162",
+      "section": "EPIC",
+      "key": "FV",
+      "title": "FV: Fuctional Value",
+      "paragraphs": [
+        {
+          "index": 163,
+          "text": "Năng lực chuyên môn cốt lõi mà một đơn vị (tập đoàn, SBU, BU, CU) cần ",
+          "runs": [
+            {
+              "text": "Năng lực chuyên môn cốt lõi mà một đơn vị (tập đoàn, SBU, BU, CU) cần ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-164",
+      "section": "EPIC",
+      "key": "FVH",
+      "title": "FVH: Fuctional value House ",
+      "paragraphs": [
+        {
+          "index": 165,
+          "text": "“Ngôi nhà sự nghiệp” chứa nhiều FV để chăm sóc và nuôi dưỡng của một CBNV đạt tiêu chuẩn ILEAD ",
+          "runs": [
+            {
+              "text": "“Ngôi nhà sự nghiệp” chứa nhiều FV để chăm sóc và nuôi dưỡng của một CBNV đạt tiêu chuẩn ILEAD ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-166",
+      "section": "EPIC",
+      "key": "COE Lead",
+      "title": "COE Lead ",
+      "paragraphs": [
+        {
+          "index": 167,
+          "text": "COE Lead là người giữ nhịp trưởng thành, hòa nhập vào văn hóa, và thấu hiểu thiết kế tổ chức của các cá nhân trong cùng một COE.",
+          "runs": [
+            {
+              "text": "COE Lead là người giữ nhịp trưởng thành, hòa nhập vào văn hóa, và thấu hiểu thiết kế tổ chức của các cá nhân trong cùng một COE.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-168",
+      "section": "EPIC",
+      "key": "FD",
+      "title": "FD: Fuctional Domain ",
+      "paragraphs": [
+        {
+          "index": 169,
+          "text": "Miền nghề - nhóm các chức năng và nhiệm vụ chuyên môn có liên quan, cùng tuân theo một chuẩn để thực hiện một mục tiêu cụ thể trong tổ chức",
+          "runs": [
+            {
+              "text": "Miền nghề - nh",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "óm các chức năng và nhiệm vụ chuyên môn có liên quan, cùng tuân theo một chuẩn để thực hiện một mục tiêu cụ thể trong tổ chức",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-170",
+      "section": "EPIC",
+      "key": "FD Lead",
+      "title": "FD Lead",
+      "paragraphs": [
+        {
+          "index": 171,
+          "text": "Người giữ chuẩn nghề cho đội ngũ, là người chịu trách nhiệm về chuẩn chuyên môn cho một miền nghề trong IPAG.",
+          "runs": [
+            {
+              "text": "Người giữ chuẩn nghề cho đội ngũ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ", l",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "à người chịu trách nhiệm về chuẩn chuyên môn cho một miền nghề trong IPAG",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ".",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-172",
+      "section": "EPIC",
+      "key": "FSC",
+      "title": "FSC: Functional Standard of Capability",
+      "paragraphs": [
+        {
+          "index": 173,
+          "text": "Bộ tiêu chuẩn năng lực chuyên môn của một nghề, thể hiện những kiến thức và năng lực mà một nghề cần biết dựa trên các thực hành tốt nhất (best practice)",
+          "runs": [
+            {
+              "text": "Bộ tiêu chuẩn năng lực",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " chuyên môn",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " của một nghề, thể hiện những kiến thức và năng lực mà một nghề cần biết dựa trên các thực hành tốt nhất (best practice)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-174",
+      "section": "EPIC",
+      "key": "FCH",
+      "title": "FCH – FC Head ",
+      "paragraphs": [
+        {
+          "index": 175,
+          "text": "Là người đứng đầu trọn một chuỗi vận hành (FC), chăm luồng việc trong FC và chịu trách nhiệm về Outcomes & Business Impact (OB) của FC.",
+          "runs": [
+            {
+              "text": "Là người đứng đầu trọn một chuỗi vận hành (FC), chăm luồng việc trong FC và chịu trách nhiệm về Outcomes & Business Impact (OB) của FC.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-176",
+      "section": "EPIC",
+      "key": "OCH",
+      "title": "OCH – OC Head",
+      "paragraphs": [
+        {
+          "index": 177,
+          "text": "Là người đứng đầu trọn một OC, chăm luồng việc trong OC từ lúc mở đến lúc đóng và chịu trách nhiệm về OKR của OC ",
+          "runs": [
+            {
+              "text": "Là người đứng đầu trọn một OC, chăm luồng việc trong OC từ lúc mở đến lúc đóng và chịu trách nhiệm về OKR của OC ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-178",
+      "section": "EPIC",
+      "key": "FCO",
+      "title": "FCO – FC Owner ",
+      "paragraphs": [
+        {
+          "index": 179,
+          "text": "Người chủ nhiệm một ô việc (FVC) trong một chuỗi vận hành FC. FCO chịu trách nhiệm làm ra Ouput making (OM)",
+          "runs": [
+            {
+              "text": "Người chủ nhiệm một ô việc (FVC) trong một chuỗi vận hành FC. FCO chịu trách nhiệm làm ra Ouput making (OM)",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-180",
+      "section": "EPIC",
+      "key": "FVC",
+      "title": "FVC – Functional Value Cell",
+      "paragraphs": [
+        {
+          "index": 181,
+          "text": "Là một “ô việc” trong một chuỗi công việc thuộc FC.  Mỗi ô cần một năng lực cụ thể để làm ra một kết quả rõ ràng.",
+          "runs": [
+            {
+              "text": "L",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "à một “ô việc” trong một chuỗi công việc",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " thuộc FC. ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " Mỗi ô cần một năng lực cụ thể để làm ra một kết quả rõ ràng.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-182",
+      "section": "EPIC",
+      "key": "OPD",
+      "title": "OPD - One Person Delegation",
+      "paragraphs": [
+        {
+          "index": 183,
+          "text": "Nguyên tắc “mỗi việc, một người chịu trách nhiệm chính. ",
+          "runs": [
+            {
+              "text": "Nguyên tắc “mỗi việc, một người chịu trách nhiệm chính",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ". ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-185",
+      "section": "ILEAD",
+      "key": "ILEAD",
+      "title": "ILEAD: Chủ nhiệm và tự chủ",
+      "paragraphs": [
+        {
+          "index": 186,
+          "text": "ILead là Người làm nghề tự chủ, hình mẫu mà mỗi CBNV làm việc tại IPAG hướng tới để trở thành, bao gồm: ",
+          "runs": [
+            {
+              "text": "ILead là Người làm nghề tự chủ, hình mẫu mà mỗi CBNV làm việc tại IPAG hướng tới để trở thành",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": ", bao gồm: ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 187,
+          "text": "I - TỰ CHỦ: Tự giác làm chủ công việc, không thụ động đợi ai giao mới làm.",
+          "runs": [
+            {
+              "text": "I - ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "TỰ CHỦ:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Tự giác làm chủ công việc, không thụ động đợi ai giao mới làm.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 188,
+          "text": "L - LEAD – Tự dẫn dắt : Lãnh đạo bản thân trước khi dẫn dắt người khác",
+          "runs": [
+            {
+              "text": "L ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "- ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "LEAD – ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "Tự dẫn dắt ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "Lãnh đạo bản thân trước khi dẫn dắt người khác",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 189,
+          "text": "E - EMPOWER – Tự trao quyền: Biết nhận quyền tự quyết và sẵn sàng chia sẻ/trao lại quyền cho đồng nghiệp.",
+          "runs": [
+            {
+              "text": "E ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "- ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "EMPOWER – ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "T",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "ự t",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "rao quyền:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Biết nhận quyền tự quyết và sẵn sàng chia sẻ/trao lại quyền cho đồng nghiệp.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 190,
+          "text": "A - ACCOUNTABLE – Tự chịu trách nhiệm: Chịu trách nhiệm tới cùng về kết quả thực tế, không chỉ báo cáo nỗ lực.",
+          "runs": [
+            {
+              "text": "A ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "- ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "ACCOUNTABLE – ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "T",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "ự c",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "hịu trách nhiệm:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Chịu trách nhiệm tới cùng về kết quả thực tế, không chỉ báo cáo nỗ lực.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 191,
+          "text": "D - DEVELOP – Tự phát triển: Bản thân tự lớn lên và giúp những người xung quanh cùng trưởng thành.",
+          "runs": [
+            {
+              "text": "D ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "- ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "DEVELOP – ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "T",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "ự p",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "hát triển:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Bản thân tự lớn lên và giúp những người xung quanh cùng trưởng thành.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-192",
+      "section": "ILEAD",
+      "key": "iLead Compass",
+      "title": "iLead Compass ",
+      "paragraphs": [
+        {
+          "index": 193,
+          "text": "Bộ La Bàn 4 kim giúp mỗi cá nhân tự định vị công việc hằng ngày:",
+          "runs": [
+            {
+              "text": "Bộ La Bàn 4 kim giúp mỗi cá nhân tự định vị công việc hằng ngày:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 194,
+          "text": "iGo: Tôi là ai và đi về hướng nào?",
+          "runs": [
+            {
+              "text": "iGo:",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " Tôi là ai và đi về hướng nào?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 195,
+          "text": "iWork: Tôi nhận trách nhiệm gì và đóng góp giá trị ra sao?",
+          "runs": [
+            {
+              "text": "iWork:",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " Tôi nhận trách nhiệm gì và đóng góp giá trị ra sao?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 196,
+          "text": "iLink: Tôi kết nối với ai và ai là người đồng hành/hỗ trợ tôi?",
+          "runs": [
+            {
+              "text": "iLink:",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " Tôi kết nối với ai và ai là người ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "đồng hành/hỗ trợ tôi",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 197,
+          "text": "iValues: Tôi tạo ra giá trị gì cho bản thân và tổ chức?",
+          "runs": [
+            {
+              "text": "iValues:",
+              "bold": null,
+              "italic": true
+            },
+            {
+              "text": " Tôi tạo ra giá trị gì cho bản thân và tổ chức?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-198",
+      "section": "ILEAD",
+      "key": "5PoA",
+      "title": "5PoA: Five Parttern of Action ",
+      "paragraphs": [
+        {
+          "index": 199,
+          "text": "Năm nếp làm nghề của người IPAG bao gồm:",
+          "runs": [
+            {
+              "text": "Năm nếp làm nghề của người IPAG bao gồm:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 200,
+          "text": "Nếp Trà Việt ",
+          "runs": [
+            {
+              "text": "Nếp Trà Việt ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 201,
+          "text": "Nếp La Bàn ",
+          "runs": [
+            {
+              "text": "Nếp La Bàn ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 202,
+          "text": "Nếp Soi sáng",
+          "runs": [
+            {
+              "text": "Nếp ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Soi sáng",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 203,
+          "text": "Nếp Công sự ",
+          "runs": [
+            {
+              "text": "Nếp ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "Công sự ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 204,
+          "text": "Nếp chủ nhiệm ",
+          "runs": [
+            {
+              "text": "Nếp chủ nhiệm ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-205",
+      "section": "ILEAD",
+      "key": "SBI",
+      "title": "SBI",
+      "paragraphs": [
+        {
+          "index": 206,
+          "text": "Khuôn mẫu dùng dùng để quan sát và ghi nhận trọn vẹn một sự việc (vấn đề) đã xảy ra:",
+          "runs": [
+            {
+              "text": "Khuôn mẫu dùng dùng để ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "quan sát",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " và ghi nhận trọn vẹn một sự việc (vấn đề) đã xảy ra:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 207,
+          "text": "Situation: Tình huống cụ thể xảy ra",
+          "runs": [
+            {
+              "text": "Situation",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "T",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ình huống cụ thể xảy ra",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 208,
+          "text": "Behavior: Hành vi cụ thể đã thực hiện",
+          "runs": [
+            {
+              "text": "Behavior:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Hành vi cụ thể đã thực hiện",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 209,
+          "text": "Impact: Tác động thực tế của hành vi",
+          "runs": [
+            {
+              "text": "Impact:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "T",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "ác động thực tế của hành vi",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-211",
+      "section": "ILEAD",
+      "key": "TAC",
+      "title": "TAC:  Transform – Amplify – Continue",
+      "paragraphs": [
+        {
+          "index": 212,
+          "text": "Khuôn mẫu nhận diện một luồng việc trong FC, giúp FC team nhìn lại chu kỳ công việc qua 3 chiều:",
+          "runs": [
+            {
+              "text": "Khuôn mẫu nhận diện ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "một luồng việc trong FC, ",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "giúp FC team nhìn lại chu kỳ công việc qua 3 chiều:",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 213,
+          "text": "T — Transform: chỉ ra điểm tắc nghẽn hoặc cách làm cũ đang cản trở hiệu quả, đề xuất hướng thay đổi.",
+          "runs": [
+            {
+              "text": "T — Transform",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": chỉ ra điểm tắc nghẽn hoặc cách làm cũ đang cản trở hiệu quả, đề xuất hướng thay đổi.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 214,
+          "text": "A — Amplify: nhận diện điểm tích cực, điểm mạnh chưa được củng cố; tổng hợp các SBI đủ điều kiện mở IPAM Session.",
+          "runs": [
+            {
+              "text": "A — Amplify",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": ": nhận diện điểm tích cực, điểm mạnh chưa được củng cố; tổng hợp các SBI đủ điều kiện mở IPAM Session.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 215,
+          "text": "C — Continue: ghi nhận nếp làm việc hiệu quả cần phát huy, đảm bảo tri thức được đóng gói và hệ thống hoá.",
+          "runs": [
+            {
+              "text": "C — Continue: ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "ghi nhận nếp làm việc hiệu quả cần phát huy, đảm bảo tri thức được đóng gói và hệ thống hoá.",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "term-216",
+      "section": "ILEAD",
+      "key": "CAT",
+      "title": "CAT: Connect with Heart - Added Value - Transfer with Excellence",
+      "paragraphs": [
+        {
+          "index": 217,
+          "text": "Khuôn mẫu nhận diện một người làm việc trong OC ",
+          "runs": [
+            {
+              "text": "Khuôn mẫu nhận diện một người làm việc trong OC ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 218,
+          "text": "C – Connect with Heart: Người này có dốc lòng làm việc/kết nối bằng trái tim không?",
+          "runs": [
+            {
+              "text": "C – Connect with ",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "H",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": "eart:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Người này có dốc lòng làm việc/kết nối bằng trái tim không",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 219,
+          "text": "A – Added Value: Người này có tạo ra thêm giá trị không? ",
+          "runs": [
+            {
+              "text": "A – Added Value:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Người này có tạo ra thêm giá trị không? ",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        },
+        {
+          "index": 220,
+          "text": "T – Transfer with Excellence: Người này đã để lại được gia tài gì?",
+          "runs": [
+            {
+              "text": "T – Transfer with Excellence:",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "text": " Người này đã để lại được gi",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "a",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": " tài gì",
+              "bold": null,
+              "italic": null
+            },
+            {
+              "text": "?",
+              "bold": null,
+              "italic": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": [
+    {
+      "index": 0,
+      "text": "IPAG GLOSSARY",
+      "runs": [
+        {
+          "text": "IPAG G",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "LOSSARY",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "Bộ Từ điển Thuật ngữ của IPAG",
+      "runs": [
+        {
+          "text": "Bộ Từ điển Thuật ngữ ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "của IPAG",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "IPAG Group · Phiên bản 2.0 · Tháng 10/2026",
+      "runs": [
+        {
+          "text": "IPAG Group · Phiên bản ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "2",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".0 · Tháng ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "10",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "/2026",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Dành cho toàn bộ thành viên IPAG · Đọc để hiểu · Áp dụng trong công việc hàng ngày",
+      "runs": [
+        {
+          "text": "Dành cho toàn bộ thành viên IPAG · Đọc để hiểu · Áp dụng trong công việc hàng ngày",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "Mỗi tổ chức đều có ngôn ngữ riêng. Ngôn ngữ đó không phải để tạo ra rào cản — mà để tạo ra sự rõ ràng.Khi cả tổ chức dùng chung một từ với cùng một nghĩa, công việc trở nên nhanh hơn, ít hiểu lầm hơn, và mỗi người biết mình đang đứng ở đâu trong bức tranh lớn. IPAG Glossary được xây dựng với mục đích đó: không phải để bạn học thuộc lòng, mà để khi bạn nghe một thuật ngữ trong cuộc họp, đọc một tài liệu nội bộ, hay nhận một nhiệm vụ mới — bạn hiểu ngay nó có",
+      "runs": [
+        {
+          "text": "Mỗi tổ chức đều có ngôn ngữ riêng. Ngôn ngữ đó không phải để tạo ra rào cản — mà để tạo ra sự rõ ràng.Khi cả tổ chức dùng chung một từ với cùng một nghĩa, công việc trở nên nhanh hơn, ít hiểu lầm hơn, và mỗi người biết mình",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "đang đứng ở đâu trong bức tranh lớn. ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "IPAG",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " Glossary được xây dựng với mục đích đó: không phải để bạn học thuộc lòng, mà",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "để khi bạn nghe một thuật ngữ trong cuộc họp, đọc một tài liệu nội bộ, hay nhận một nhiệm vụ mới — bạn hiểu ngay nó có",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "nghĩa gì và liên quan đến công việc của mình như thế nào.",
+      "runs": [
+        {
+          "text": "nghĩa gì và liên quan đến công việc của mình như thế nào.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "Bộ từ điển này dùng để làm gì",
+      "runs": [
+        {
+          "text": "Bộ từ điển này dùng để làm gì",
+          "bold": true,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "Dùng để hiểu hệ thống:  Hiểu IPAG vận hành theo một hệ thống có chủ đích theo 5 khoang IPA – IPAM – IPAG – EPIC - ILEAD",
+      "runs": [
+        {
+          "text": "Dùng để hiểu hệ thống",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Hiểu ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "IPAG vận hành theo một hệ thống có chủ đích ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "th",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "eo",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " 5 khoang IPA – IPAM – IPAG – EPIC - ILEAD",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Dùng để giao tiếp chính xác: Khi bạn và đồng nghiệp đều hiểu FC khác OC như thế nào, hay báo cáo SBI khác báo cáo TAC ra sao — cuộc trao đổi đi thẳng vào vấn đề, không cần giải thích vòng vèo",
+      "runs": [
+        {
+          "text": "Dùng để giao tiếp chính xác",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Khi bạn và đồng nghiệp đều hiểu FC khác OC như thế nào, hay ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "báo cáo SBI",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " khác ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "báo cáo TAC ra sao",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " — cuộc trao đổi đi thẳng vào vấn đề, không cần giải thích ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "vòng vèo",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "Dùng để tự định hướng: Nhiều thuật ngữ trong đây như COL, COP, COE, FVH…— không chỉ là khái niệm tổ chức. Chúng là công cụ giúp bạn tự hỏi: Tôi đang ở đâu? Tôi muốn đi đến đâu? Tôi cần làm gì?",
+      "runs": [
+        {
+          "text": "Dùng để tự định hướng",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Nhiều thuật ngữ trong đây",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " như COL, COP, COE, FVH…",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "— không chỉ là khái niệm tổ chức. Chúng",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "là công cụ giúp bạn tự hỏi: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Tôi đang ở đâu? Tôi muốn đi đến đâu? Tôi cần làm gì?",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "Dùng để tra cứu khi cần: Bạn không cần đọc hết tài liệu này một lần. Hãy đọc tuần tự để nắm bức tranh tổng thể, hoặc mở ra tra khi gặp một thuật ngữ chưa quen. Cả hai cách đều đúng",
+      "runs": [
+        {
+          "text": "Dùng để tra cứu khi cần",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Bạn không cần đọc hết tài liệu này một lần. Hãy đọc tuần tự để nắm bức tranh tổng thể,",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "hoặc mở ra tra khi gặp một thuật ngữ chưa quen. Cả hai cách đều đúng",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "Nội dung chính",
+      "runs": [
+        {
+          "text": "Nội dung chính",
+          "bold": true,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "text": "Ngôn ngữ chung là nền tảng của hợp tác. Tài liệu này thuộc về tất cả mọi người tại IPAG — và sẽ phát triển cùng tổ chức",
+      "runs": [
+        {
+          "text": "Ngôn ngữ chung là nền tảng của hợp tác. Tài liệu này thuộc về tất cả mọi người tại IPAG — và sẽ phát triển cùng tổ chức",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "text": "PHẦN I: IPA ",
+      "runs": [
+        {
+          "text": "PHẦN I: IPA",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "text": "IPA: Chiến lược & Tam bảo ",
+      "runs": [
+        {
+          "text": "IPA",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Chiến lược & Tam bảo ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "text": "Là bộ khung thiết kế để dựng chiến lược cho tổ chức và dựng Tam bảo cho đội ngũ CBNV ",
+      "runs": [
+        {
+          "text": "Là bộ khung thiết kế để dựng chiến lược cho tổ chức và dựng Tam bảo cho đội ngũ CBNV ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "text": "IPAway: ",
+      "runs": [
+        {
+          "text": "IPAway: ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "text": "Phương pháp quán chiếu một sự việc bao gồm 3 chữ, ba câu hỏi cần trả lời trước mỗi việc:",
+      "runs": [
+        {
+          "text": "P",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "hương pháp quán chiếu một sự việc bao gồm 3 chữ, ba câu hỏi cần trả lời trước mỗi việc:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "text": "Intention – Chủ đích: Ý nghĩa/mục đích thực sự của sự việc/hành động ",
+      "runs": [
+        {
+          "text": "Intention – Chủ đích",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Ý nghĩa/mục đích thực sự của sự việc/hành động ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "text": "Trả lời câu hỏi: Việc này để làm gì? Cho ai? Động cơ cốt lõi là gì?",
+      "runs": [
+        {
+          "text": "Trả lời câu hỏi: Việc này để làm gì? Cho ai? Động cơ cốt lõi là gì?",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "text": "Presence – Hiện diện: Hiện diện trọn vẹn trong công việc và quan sát hiện trạng như nó đang là",
+      "runs": [
+        {
+          "text": "Presence – Hiện diện:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Hiện diện trọn vẹn",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " trong công việc",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " và quan sát hiện trạng như nó đang là",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "text": "Trả lời câu hỏi: Hiện trạng thực sự của sự việc đang như thế nào? Tôi có đang hiện diện, toàn tâm toàn ý cho công việc này không? ",
+      "runs": [
+        {
+          "text": "Trả lời câu hỏi: Hiện trạng thực sự của sự việc đang như thế nào? Tôi có đang hiện diện, toàn tâm toàn ý cho công việc này không? ",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "text": "Awareness -Tỉnh thức: Nhận biết được cơ hội và thách thức, các bước công việc mình cần thực hiên",
+      "runs": [
+        {
+          "text": "Awareness -Tỉnh thức:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Nhận biết được cơ hội và thách thức, các bước công việc mình cần thực hiên",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "text": "Trả lời câu hỏi: Việc này có cơ hội gì? Thách thức như thế nào? Bước tiếp theo cần làm gì",
+      "runs": [
+        {
+          "text": "Trả lời câu hỏi: Việc này có cơ hội gì? Thách thức như thế nào? Bước tiếp theo cần làm gì",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "text": "Tam bảo: ",
+      "runs": [
+        {
+          "text": "Tam bảo:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "text": "Ba “điểm tựa” để mỗi người quay về khi gặp vướng mắc trong công việc bao gồm COL (Center of leadership) - COP (Center of practice) - COE (Center of Excellence)",
+      "runs": [
+        {
+          "text": "Ba",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "“",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "điểm tựa”",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " để mỗi người quay về khi gặp vướng mắc trong công việc",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " bao gồm COL (Center of leadership) - COP (Center",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " of practice) - COE (Center of Excellence)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "text": "COL – Center of Leadership: ",
+      "runs": [
+        {
+          "text": "COL – Center of Leadership: ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "text": "Đội ngũ lãnh đạo, đóng vai trò GIỮ HƯỚNG. CBNV tìm đến COL khi chưa rõ về định hướng của việc, ai là người quyết định.",
+      "runs": [
+        {
+          "text": "Đội ngũ lãnh đạo, đóng vai trò ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "GIỮ HƯỚNG",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ". CBNV tìm đến COL khi chưa rõ về định hướng của việc, ai là người quyết đ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ị",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "nh",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "text": "Câu tự hỏi: Việc này theo hướng nào? Ai đang dẫn tôi? ",
+      "runs": [
+        {
+          "text": "Câu ",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": "tự hỏi",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": ": Việc này theo hướng nào? Ai đang dẫn tôi? ",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "text": "COP – Center of Practice:  ",
+      "runs": [
+        {
+          "text": "COP – Center of Practice:  ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "text": "Bao gồm bộ Tứ quy, bộ chuẩn mực quản trị, bộ chuẩn mực thiết kế tổ chức và bộ chiến lược 5P, đóng vai trò GIỮ CHUẨN. CBNV tìm đến khi chưa rõ làm thế nào là đúng? Chuẩn mực nào cần tuân thủ?",
+      "runs": [
+        {
+          "text": "Bao gồm bộ Tứ quy, bộ chuẩn mực quản trị, bộ chuẩn mực thiết kế tổ chức và bộ chiến lược 5P, đóng vai trò GIỮ CHUẨN. CBNV tìm đến khi chưa rõ làm thế nào là đúng? Chuẩn mực nào cần tuân thủ?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "text": "Câu tự hỏi: Công việc này cần tuân theo quy định, chuẩn mực nào? Tôi đã tìm hiểu trước khi thực hiện chưa?",
+      "runs": [
+        {
+          "text": "Câu ",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": "tự hỏi",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": ": ",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": "Công việc này cần tuân theo quy định, chuẩn mực nào? Tôi đã tìm hiểu trước khi thực hiện chưa?",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "text": "COE – Center of Excellence:  ",
+      "runs": [
+        {
+          "text": "COE – Center of Excellence:  ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "text": "Đồng nghiệp, đóng vai trò GIỮ NHỊP NGHỀ. CBNV tìm đến khi chưa rõ cách làm, cần người người cùng nghề hỗ trợ. ",
+      "runs": [
+        {
+          "text": "Đồng nghiệp",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ", đóng vai trò GIỮ NHỊP NGHỀ. CBNV tìm đến khi chưa rõ cách làm, cần người người cùng nghề hỗ trợ. ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "text": "Câu tự hỏi: Ai trong nghề đã làm việc này? Tôi có thể hỏi ai?",
+      "runs": [
+        {
+          "text": "Câu tự hỏi:",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " Ai trong nghề đã làm việc này? Tôi có thể hỏi ai?",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "text": "5P: ",
+      "runs": [
+        {
+          "text": "5P: ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "text": "Là khung dựng chiến lược phát triển bao gồm:",
+      "runs": [
+        {
+          "text": "Là khung dựng chiến lược phát triển bao gồm:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "text": "Strategy of Position – Định vị: Mình tạo ra giá trị gì và người nhận là ai?",
+      "runs": [
+        {
+          "text": "Strategy of Position – Định vị",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Mình tạo ra giá trị gì v",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "à người nhận là ai?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "text": "Strategy of Perspectives – Thương hiệu: Mình muốn được nhìn nhận như thế nào?",
+      "runs": [
+        {
+          "text": "Strategy of Perspectives – Thương hiệu",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Mình muốn được nhìn nhận như thế nào?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "text": "Strategy of Pattern of Action - Nếp làm việc: Mình xây dựng thói quen, nếp làm việc nào?",
+      "runs": [
+        {
+          "text": "Strategy of Pattern of Action - Nếp làm việc",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " Mình xây dựng thói quen, nếp làm việc nào?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "text": "Strategy of Principle – Nguyên tắc: Các nguyên tắc mình bắt buộc cần giữ khi thực hiện công việc",
+      "runs": [
+        {
+          "text": "Strategy of Principle – Nguyên tắc:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Các nguyên tắc mình bắt buộc cần giữ khi thực hiện công việc",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "text": "Strategy of Plan – Kế hoạch: Kế hoạch hành động cụ thể để kéo được 4P phía trên khớp nhau",
+      "runs": [
+        {
+          "text": "Strategy of Plan – Kế hoạch:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Kế hoạch hành động cụ thể để kéo được 4P ph",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ía",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " trên khớp nhau",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "text": "5A: ",
+      "runs": [
+        {
+          "text": "5A:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "text": "Trong Strategy of Principle, 5A là bộ chuẩn mực nguyên tắc ứng xử khi người IPAG chạm tới khách hàng. Bao gồm:",
+      "runs": [
+        {
+          "text": "Trong Strategy of Principle, 5A là bộ chuẩn mực nguyên tắc ứng xử khi người IPAG chạm tới khách hàng. Bao gồm:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "text": "Accessible - Dễ tiếp cận: Điểm chạm dịch vụ/sản phẩm dễ tìm, dễ vào, và dễ hiểu ",
+      "runs": [
+        {
+          "text": "Accessible ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Dễ tiếp cận",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Điểm chạm dịch vụ/sản phẩm dễ tìm, dễ vào, và dễ hiểu ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "text": "Advocacy - Bảo vệ lợi ích khách hàng: Đặt lợi ích thực của khách hàng lên đầu tiên ",
+      "runs": [
+        {
+          "text": "Advocacy - Bảo vệ lợi ích khách hàng:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Đặt lợi ích thực của khách hàng lên đầu tiên ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "text": "Authentic - Chân thật: Giữ đúng lời hứa, đúng chất lượng và giá trị đã tuyên bố",
+      "runs": [
+        {
+          "text": "Authentic - Chân thật:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Giữ đúng lời hứa, đúng chất lượng và giá trị đã tuyên bố",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "text": "Accommodative – Toàn diện: Giải pháp toàn diện, lắng nghe và linh hoạt điều chỉnh để đáp ứng đúng nhu cầu của khách hàng ",
+      "runs": [
+        {
+          "text": "Accommodative",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "– Toàn diện",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Giải pháp toàn diện, lắng nghe và linh hoạt điều chỉnh để đáp ứng đúng nhu cầu của khách hàng ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "text": "Affordable - Hợp lý:  Đem lại giá trị vượt trội tương xứng với chi phí khách hàng bỏ ra",
+      "runs": [
+        {
+          "text": "Affordable ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "-",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Hợp lý:  ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Đem lại giá trị vượt trội tương xứng với chi phí khách hàng bỏ ra",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "text": "PHẦN II: IPAM ",
+      "runs": [
+        {
+          "text": "PHẦN II: IPAM ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "text": "IPAM:  Dựng nhà và vận hành ",
+      "runs": [
+        {
+          "text": "IPAM:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "  Dựng nhà và vận hành ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "text": "Là bộ khung thiết kế để dựng ngôi nhà năng lực cho tổ chức/từng đơn vị/cá nhân bao gồm 5 đốt:",
+      "runs": [
+        {
+          "text": "Là bộ khung thiết kế để dựng ngôi nhà năng lực cho tổ chức/từng đơn vị/cá nhân bao gồm 5 đốt:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "text": "Đốt 1 - Móng: Plan – Định hướng kế hoạch hành động ",
+      "runs": [
+        {
+          "text": "Đốt 1 - Móng:",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " Plan",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "–",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Định hướng kế hoạch hành động ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "text": "Đốt 2 - Nền: Capability – living – xây năng lực và xây chuỗi việc ",
+      "runs": [
+        {
+          "text": "Đốt 2 - Nền: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Capability – living ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "– xây năng lực và xây chuỗi việc ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "text": "Đốt 3 - Cội: HWG – Dựng cội nguồn phát triển theo 3 tầng ",
+      "runs": [
+        {
+          "text": "Đốt 3 - Cội: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "HWG ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "–",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Dựng cội nguồn phát triển theo 3 tầng ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "text": "Đốt 4 - Cột: 4 trục vận hành GTM – VCO – BIS – CG",
+      "runs": [
+        {
+          "text": "Đốt 4 - Cột: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "4 t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "rục vận hành",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "GTM – VCO – BIS – CG",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "text": "Đối 5 - Nóc: BC – thấy toàn cảnh để ra quyết định",
+      "runs": [
+        {
+          "text": "Đối 5 - Nóc: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "BC – thấy toàn cảnh để ra quyết đ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ịnh",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "text": "FC – Functional chain",
+      "runs": [
+        {
+          "text": "FC – Functional chain",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "text": "Luồng nhiệm vụ vận hành thường xuyên, ổn định và diễn ra hàng ngày (business as usual)",
+      "runs": [
+        {
+          "text": "Luồng nhiệm vụ vận hành thường xuyên, ổn định và diễn ra hàng ngày (business as usual)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "text": "OC – Opportunity chain",
+      "runs": [
+        {
+          "text": "OC – Opportunity chain",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "text": "Luồng nhiệm vụ thực hiện các dự án cải tiến, đổi mới, phát triển mang tính chiến lược và có thời hạn nhất định. OC là nơi nhân sự vượt ra khỏi phạm vi FC của mình để tạo ra các giá trị mới.",
+      "runs": [
+        {
+          "text": "L",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "uồng",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " nhiệm vụ thực hiện các dự án cải tiến, đổi mới, phát triển mang tính chiến lược và có thời hạn nhất định. OC là nơi nhân sự vượt ra khỏi phạm vi FC của mình để tạo ra các giá trị mới.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "text": "HWG ",
+      "runs": [
+        {
+          "text": "HWG ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "text": "Tháp 3 tầng Health – Wealth – Grow là kiến trúc được áp dụng cho mọi chủ thể từ người làm nghề (CBNV), đến các SBU, BU, CU trong tập đoàn, đến khách hàng. Tháp HWG là 3 tầng  nuôi dưỡng sự phát triển bền vững của tổ chức, sản phẩm và con người.",
+      "runs": [
+        {
+          "text": "Tháp 3 tầng ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Health – Wealth – Grow là kiến trúc được áp dụng cho mọi chủ thể từ người làm nghề (CBNV), đến các SBU, BU, CU trong tập đoàn",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ",",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " đến khách hàng. Tháp HWG là 3 tầng",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "  nuôi dưỡng sự phát triển bền vững của tổ chức, sản phẩm và con người.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "text": "H (Health - NUÔI / Sống Khỏe): Độ ổn định, sức khỏe vận hành và chất lượng đội ngũ (đo bằng chỉ số GMI).",
+      "runs": [
+        {
+          "text": "H (Health - NUÔI / Sống Khỏe):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Độ ổn định, sức khỏe vận hành và chất lượng đội ngũ (đo bằng chỉ số GMI).",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "text": "W (Wealth - TÍCH / Sống Giàu): Tính năng sản phẩm, dữ liệu, tài sản hữu hình & vô hình tích lũy được (đo bằng chỉ số BMI).",
+      "runs": [
+        {
+          "text": "W (Wealth - TÍCH / Sống Giàu):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Tính năng sản phẩm, dữ liệu, tài sản hữu hình & vô hình tích lũy được (đo bằng chỉ số BMI).",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "text": "G (Grow - TUỆ / Sống Vui): Sự trưởng thành về trí tuệ, khả năng tạo tác động và truyền lại cho thế hệ sau (đo bằng KPI/CMI).",
+      "runs": [
+        {
+          "text": "G (Grow - TUỆ / Sống Vui):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Sự trưởng thành về trí tuệ, khả năng tạo tác động và truyền lại cho thế hệ sau (đo bằng KPI/CMI).",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "text": "GTM - Go to market",
+      "runs": [
+        {
+          "text": "GTM - Go to market",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "text": "GTM là chuỗi giá trị hướng ra thị trường, chịu trách nhiệm cho tăng trưởng, tiếp cận khách hàng mới và mở rộng cơ hội kinh doanh",
+      "runs": [
+        {
+          "text": "GTM là chuỗi giá trị hướng ra thị trường, chịu trách nhiệm cho tăng trưởng, tiếp cận khách hàng mới và mở rộng cơ hội kinh doanh",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "text": "VCO - Value Chain Operation",
+      "runs": [
+        {
+          "text": "VCO - Value Chain Operation",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "text": "VCO là chuỗi giá trị phụ trách vận hành và đồng hành cùng khách hàng. Nếu GTM giúp có được khách hàng, thì VCO đảm bảo phục vụ khách hàng tốt",
+      "runs": [
+        {
+          "text": "VCO là chuỗi giá trị phụ trách vận hành và đồng hành cùng khách hàng. Nếu GTM giúp có được khách hàng, thì VCO đảm bảo phục vụ khách hàng tốt",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "text": "BIS — Business Intelligent Solution",
+      "runs": [
+        {
+          "text": "BIS — Business Intelligent Solution",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "text": "Chuỗi giá trị hỗ trợ quản trị và ra quyết định thông qua hệ thống dữ liệu, thông tin.",
+      "runs": [
+        {
+          "text": "Chuỗi giá trị hỗ trợ quản trị và ra quyết định",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " thông qua hệ thống ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "dữ liệu, thông tin",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "text": "CG – Capability Guardian ",
+      "runs": [
+        {
+          "text": "CG – Capability Guardian ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "text": "Chuỗi giá trị nền tảng nội bộ, cung cấp dịch vụ dùng chung và năng lực quản trị xuyên suốt cho toàn bộ SBU trong IPAG Group — hiện gồm Fincon, Workplace, CGC, SAS, EPIC…",
+      "runs": [
+        {
+          "text": "C",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "huỗi giá trị nền tảng nội bộ, cung cấp dịch vụ dùng chung và năng lực quản trị xuyên suốt cho toàn bộ SBU trong IPAG Group — hiện gồm Fincon, Workplace, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "CGC, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "SAS,",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " EPIC…",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "text": "BC - Business Committee",
+      "runs": [
+        {
+          "text": "BC - Business Committee",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "text": "Hội đồng Kinh doanh, cơ quan điều hành ở cấp một công ty thành viên (SBU), nơi ra quyết định, ký duyệt và giữ nhịp tháng, quý, năm cho các SBU",
+      "runs": [
+        {
+          "text": "Hội đồng Kinh doanh, cơ quan điều hành ở cấp một công ty thành viên (SBU), nơi ra quyết định, ký duyệt và giữ nhịp tháng, quý, năm cho các SBU",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "text": "BU - Business Unit ",
+      "runs": [
+        {
+          "text": "BU ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Business Unit ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "text": "Đơn vị kinh doanh trực tiếp ra thị trường, có tự chủ kinh tế và tự chịu trách nhiệm Lãi / Lỗ (P&L)",
+      "runs": [
+        {
+          "text": "Đơn vị kinh doanh trực tiếp ra thị trường, có tự chủ kinh tế và tự chịu trách nhiệm Lãi / Lỗ (P&L)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "text": "CU - Capability Unit ",
+      "runs": [
+        {
+          "text": "CU",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " - ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Capability Unit ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "text": "Đơn vị chuyên trách năng lực (như Nhân sự, Tài chính, IT, Pháp chế...), không giữ P&L, tạo ra năng lực để cho các BU “mượn:",
+      "runs": [
+        {
+          "text": "Đơn vị chuyên trách năng lực (như Nhân sự, Tài chính, IT, Pháp chế...), ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "không giữ P&L, tạo ra năng lực để cho các BU ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "“mượn:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "text": "20: GMI – Grow Maturity Indicators ",
+      "runs": [
+        {
+          "text": "20: GMI – Grow Maturity Indicator",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "s",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "text": "Bộ chỉ số đo mức độ một cá nhân thực sự sống ba nếp sống ANVIE – VNDGO – PTICARE, tức là người đó có thực sự trải nghiệm dịch vụ/sản phẩm và hiểu được trí tuệ của ba nếp sống này không?",
+      "runs": [
+        {
+          "text": "Bộ chỉ số đo mức độ một cá nhân thực sự sống ba nếp sống ANVIE – VNDGO",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " – ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "PTICARE",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ",",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " tức là người đó có thực sự trải nghiệm dịch vụ/sản phẩm ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "và hiểu được trí tuệ của",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ba nếp sống này không?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "text": "AMI - Awareness Maturity Indicators",
+      "runs": [
+        {
+          "text": "A",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "MI -",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Awareness Maturity Indicators",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống ANVIE ",
+      "runs": [
+        {
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống ANVIE ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "text": "VMI - Value Maturity Indicators",
+      "runs": [
+        {
+          "text": "VMI - ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Value Maturity Indicators",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống VNDGO",
+      "runs": [
+        {
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "đ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "o mức độ một cá nhân thực sự sống nếp sống ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "VNDGO",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "text": "PMI - Protection Maturity Indicators",
+      "runs": [
+        {
+          "text": "P",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "MI - Protection Maturity Indicators",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "text": "Chỉ số thuộc bộ chỉ sổ GMI, đo mức độ một cá nhân thực sự sống nếp sống PTICARE",
+      "runs": [
+        {
+          "text": "Chỉ số thuộc bộ chỉ sổ GMI, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "đ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "o mức độ một cá nhân thực sự sống nếp sống ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "PTICARE",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "text": "BMI - Business Maturity Indicators",
+      "runs": [
+        {
+          "text": "BMI ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Business Maturity Indicators",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "text": "Là bộ chỉ số đo độ trưởng thành nghề nghiệp của một cá nhân, người ấy làm nghề tới đâu, có đủ năng lực để được trao phạm vi lớn hơn chưa.",
+      "runs": [
+        {
+          "text": "Là ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "bộ ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "chỉ số đo độ trưởng thành nghề nghiệp của một ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "cá nhân, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "người ấy làm nghề tới đâu, có đủ năng lực để được trao phạm vi lớn hơn chưa",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "text": "KPI - Key Performance Indicators",
+      "runs": [
+        {
+          "text": "KPI - Key Performance Indicators",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "text": "Là thước đo kết quả thực thi công việc thực tế trong một kỳ, được giao trong FC và đo theo 4 mặt FCPL:",
+      "runs": [
+        {
+          "text": "Là thước đo kết quả thực thi công việc thực tế trong một kỳ, được giao",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " trong FC",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " và đo theo 4 mặt FCPL:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "text": "F (Financial): Chỉ tiêu Tài chính / Thu nhập thuần",
+      "runs": [
+        {
+          "text": "F (Financial):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chỉ tiêu Tài chính / Thu nhập thuần",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "text": "C (Client): Chỉ tiêu Khách hàng",
+      "runs": [
+        {
+          "text": "C (Client):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chỉ tiêu Khách hàng",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "text": "P (Product): Chỉ tiêu Sản phẩm / Dịch vụ",
+      "runs": [
+        {
+          "text": "P (Product):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chỉ tiêu Sản phẩm / Dịch vụ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "text": "L (Lead): Chỉ tiêu Dẫn dắt / Tự quản bản thân & đội ngũ",
+      "runs": [
+        {
+          "text": "L (Lead):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chỉ tiêu Dẫn dắt / Tự quản bản thân & đội ngũ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "text": "OKR: Objective and Key results",
+      "runs": [
+        {
+          "text": "OKR: Objective and Key results",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "text": "Chỉ số đánh giá kết quả thực thi OC ",
+      "runs": [
+        {
+          "text": "Chỉ số đánh giá kết quả thực thi OC ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "text": "TDSCP ",
+      "runs": [
+        {
+          "text": "TDSCP ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "text": "Là 5 chiều đo (5 chỉ số) trong BMI bao gồm:",
+      "runs": [
+        {
+          "text": "Là 5 chiều đo (5 chỉ số) trong BMI bao gồm:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "text": "T – Trust: Niềm tin vào tổ chức ",
+      "runs": [
+        {
+          "text": "T – Trust:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Niềm tin vào tổ chức ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "text": "D – Depth: Độ sâu của chuyên môn bao gồm Kỹ năng (Skill) và năng lực tạo ra sản phẩm có giá trị thực tế (Delivery)",
+      "runs": [
+        {
+          "text": "D",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " –",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Depth",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Độ sâu của chuyên môn bao gồm Kỹ năng (Skill) và năng lực tạo ra sản phẩm có giá trị thực tế (Delivery)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "text": "S – Span of Accountability:  Phạm vi chịu trách nhiệm thực tế của 1 cá nhân",
+      "runs": [
+        {
+          "text": "S",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " –",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Span of Accountability",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ":  Phạm vi chịu trách nhiệm thực tế của 1 cá nhân",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "text": "C – Connection reach: Tầm kết nối của một cá nhân gồm SOC – SOI – SOS",
+      "runs": [
+        {
+          "text": "C",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " –",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Connection reach",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Tầm kết nối của một cá nh",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "â",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "n gồm SOC – SOI – SOS",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "text": "P – Performance: Độ chín, hiệu suất làm việc qua KPI ",
+      "runs": [
+        {
+          "text": "P",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " –",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Performance",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Độ chín, hiệu suất làm việc qua KPI ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "text": "ERC - Engage – Respect – Collaboration",
+      "runs": [
+        {
+          "text": "ERC",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " - ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Engage – Respect – Collaboration",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "text": "Là bộ thước đo niềm tin (chỉ số T trong TDSCP) của nhân sự đối với tổ chức. Bộ ba này được cấu thành từ 3 họ hành vi có thể quan sát và đo lường được:",
+      "runs": [
+        {
+          "text": "L",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "à bộ thước đo ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "niềm tin (chỉ số T trong TDSCP) ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "của nhân sự đối với tổ chức. Bộ ba này được cấu thành từ 3 họ hành vi có thể quan sát và",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " đo lường được:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "text": "E – Engage (Dấn thân): Sự chủ động bước vào công việc, tự nhận nhiệm vụ chưa ai nhận mà không đợi được giao.",
+      "runs": [
+        {
+          "text": "E – Engage (Dấn thân):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Sự chủ động bước vào công việc, tự nhận nhiệm vụ chưa ai nhận mà không đợi được giao.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "text": "R – Respect (Tôn trọng kỷ luật): Sự tuân thủ nếp làm việc, giữ đúng chuẩn mực và cam kết với tổ chức ngay cả khi không có người giám sát.",
+      "runs": [
+        {
+          "text": "R – Respect (Tôn trọng kỷ luật):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Sự tuân thủ nếp làm việc, giữ đúng chuẩn mực và cam kết với tổ chức ngay cả khi không có người giám sát.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "text": "C – Collaboration (Cộng tác): Thói quen chủ động hợp tác, hỗ trợ đồng nghiệp để công việc chung nhẹ đi.",
+      "runs": [
+        {
+          "text": "C – Collaboration (Cộng tác):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Thói quen chủ động hợp tác, hỗ trợ đồng nghiệp để công việc chung nhẹ đi.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "text": "PHẦN III: IPAG",
+      "runs": [
+        {
+          "text": "PHẦN II",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "I",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": IPA",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "G",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "text": "IPAG: Gia tài và Tri thức",
+      "runs": [
+        {
+          "text": "IPAG: Gia tài và Tri thức",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "text": "IPAG là bộ khung thiết kế phục vụ việc đóng gói và lưu giữ kho tri thức, tài sản vô hình để sử dụng, lưu chuyển & kế thừa trong tập đoàn.",
+      "runs": [
+        {
+          "text": "IPAG là bộ khung thiết kế phục vụ việc đó",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ng gói và lưu giữ kho tri thức, tài sản ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "vô hình ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "để sử dụng",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ", lưu chuyển",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " & kế thừa",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " trong tập đoàn",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "text": "KMS - Knowledge Management System ",
+      "runs": [
+        {
+          "text": "KMS - Knowledge Management System ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "text": "Hệ thống lưu trữ toàn bộ văn bản, quy trình, tài liệu đã được chuẩn hóa để phát hành dùng chung trong tổ chức",
+      "runs": [
+        {
+          "text": "Hệ thống lưu trữ toàn bộ văn bản, quy trình, tài liệu đã được chuẩn hóa để phát hành dùng chung trong tổ chức",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "text": "LMS - Learning Management System",
+      "runs": [
+        {
+          "text": "LMS - Learning Management System",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "text": "Hệ thống tổ chức, quản lý và theo dõi hoạt động học tập và đào tạo",
+      "runs": [
+        {
+          "text": "Hệ thống tổ chức, quản lý và theo dõi hoạt động học tập và đào tạo",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "text": "CB – Capability Bank ",
+      "runs": [
+        {
+          "text": "CB – Capability Bank ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "text": "Ngân hàng năng lực - bộ chuẩn năng lực Tập đoàn, các công ty thành viên (SBU), các BU, CU cần. Ngân hàng năng lực sẽ bao gồm các năng lực mà tổ chức chúng ta tự có và các năng lực mà chúng ta cần đi thuê hoặc mượn từ bên ngoài  ",
+      "runs": [
+        {
+          "text": "Ngân hàng năng lực - bộ chuẩn năng lực Tập đoàn, các công ty thành viên (SBU), các BU, CU cần. ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Ngân hàng năng lực",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " sẽ bao ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "gồm các năng lực mà tổ chức chúng ta tự có và các năng lực mà chúng ta cần đi thuê hoặc mượn từ bên ngoài ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 130,
+      "text": "SP - Shared Platform ",
+      "runs": [
+        {
+          "text": "SP - Shared Platform ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 131,
+      "text": "Nền tảng Dùng chung bao gồm các công cụ, hạ tầng dùng chung cho nhiều công ty/đơn vị trong tập đoàn.",
+      "runs": [
+        {
+          "text": "Nền tảng Dùng chung b",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "a",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "o gồm các công cụ, hạ tầng dùng chung cho nhiều công ty/đơn vị trong tập đoàn.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "text": "IPAG Way ",
+      "runs": [
+        {
+          "text": "IPAG Way ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 133,
+      "text": "Là phương pháp tạo dòng chảy tri thức trong tập đoàn, để tri thức không bị \"thất thoát\" khi nhân sự chuyển giao hay nghỉ việc, IPAG Way vận hành theo đúng 5 động tác:",
+      "runs": [
+        {
+          "text": "Là phương pháp tạo dòng chảy tri thức trong tập đoàn, đ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ể tri thức không bị \"thất thoát\" khi nhân sự chuyển giao hay nghỉ việc, IPAG Way vận hành theo đúng 5 động tác:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 134,
+      "text": "•\tTích (Gom kinh nghiệm): Thu thập dữ liệu, cách làm hay từ thực tế công việc.",
+      "runs": [
+        {
+          "text": "•",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Tích (Gom kinh nghiệm):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Thu thập dữ liệu, cách làm hay từ thực tế công việc.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "text": "•\tĐãi (Lọc vàng bỏ rác): Sàng lọc lấy những bài học tinh túy nhất.",
+      "runs": [
+        {
+          "text": "•",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Đãi (Lọc vàng bỏ rác):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Sàng lọc lấy những bài học tinh túy nhất.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "text": "•\tChuẩn (Đóng gói): Biên soạn thành mẫu biểu, quy trình chuẩn mực.",
+      "runs": [
+        {
+          "text": "•",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Chuẩn (Đóng gói):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Biên soạn thành mẫu biểu, quy trình chuẩn mực.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "text": "•\tTrao (Truyền nghề): Đào tạo, chuyển giao lại cho đồng nghiệp.",
+      "runs": [
+        {
+          "text": "•",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Trao (Truyền nghề):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Đào tạo, chuyển giao lại cho đồng nghiệp.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "text": "•\tMở (Lan tỏa): Chia sẻ giá trị ra toàn hệ thống và cộng đồng.",
+      "runs": [
+        {
+          "text": "•",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "\t",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Mở (Lan tỏa):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chia sẻ giá trị ra toàn hệ thống và cộng đồng.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "text": "PHẦN IV: EPIC ",
+      "runs": [
+        {
+          "text": "PHẦN I",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "V",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "EPIC ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "text": "EPIC: Cộng sự và đội ngũ",
+      "runs": [
+        {
+          "text": "EPIC",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "C",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ộng sự và",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "đội ngũ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "text": "EPIC là viết tắt của câu tiếng Anh: Empowering People to Create Impact through Collaboration (Trao quyền cho mọi người để tạo ra tác động thông qua cộng tác)",
+      "runs": [
+        {
+          "text": "EPIC",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " là viết tắt của câu tiếng Anh: ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Empowering People to Create Impact through Collaboration",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " (Trao quyền cho mọi người để tạo ra tác động thông qua cộng tác)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 145,
+      "text": "EPIC là văn hóa và nếp làm việc công sự thông qua 4 cùng:",
+      "runs": [
+        {
+          "text": "EPIC ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "là văn hóa và nếp làm việc c",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ô",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ng sự thông qua 4 cùng:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 146,
+      "text": "E (Empowering – CÙNG TRAO QUYỀN): Giao việc đi kèm với quyền quyết định tương ứng — không giao việc rồi giữ lại quyền quyết",
+      "runs": [
+        {
+          "text": "E (Empowering – CÙNG TRAO QUYỀN):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Giao việc đi kèm với quyền quyết định tương ứng — ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "không giao việc rồi giữ lại quyền quyết",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 147,
+      "text": "P (People – CÙNG TIẾP SỨC): Đưa thêm lực và đội ngũ vào hỗ trợ khi đồng nghiệp thiếu — tiếp sức là đỡ vào, không phải làm hộ",
+      "runs": [
+        {
+          "text": "P (People – CÙNG TIẾP SỨC):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Đưa thêm lực và đội ngũ vào hỗ trợ khi đồng nghiệp thiếu — ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "tiếp sức là đỡ vào, không phải làm hộ",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 148,
+      "text": "I (Impact – CÙNG TẠO GIÁ TRỊ): Đo lường thành công bằng tác động thực tế để lại cho người nhận/khách hàng",
+      "runs": [
+        {
+          "text": "I (Impact – CÙNG TẠO GIÁ TRỊ):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Đo lường thành công bằng tác động thực tế để lại cho người nhận/khách hàng",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 149,
+      "text": "C (Collaboration – CÙNG CỘNG TÁC): Làm việc cùng nhau là mặc định — làm một mình là ngoại lệ cần có lý do",
+      "runs": [
+        {
+          "text": "C (Collaboration – CÙNG CỘNG TÁC):",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Làm việc cùng nhau là mặc định — ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "làm một mình là ngoại lệ cần có lý do",
+          "bold": null,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "index": 150,
+      "text": "5S – bản đồ cộng sự",
+      "runs": [
+        {
+          "text": "5S – bản đồ c",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ộng",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " s",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ự",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 151,
+      "text": "5S bản đồ cộng sự của một cá nhân. Khi một cá nhân được giao SOA, cần bắt buộc phải dựng kèm một đội cộng sự (working team) bao gồm: SOA – SOC – SOI – SOS – SOBC",
+      "runs": [
+        {
+          "text": "5S bản đồ c",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ộng",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " s",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ự ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "của một cá nhân. Khi một cá nhân được giao SOA, cần bắt buộc phải dựng kèm một đội cộng s",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ự",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " (working team) bao gồm: SOA – SOC – SOI – SOS – SOBC",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 152,
+      "text": "SOA – Span of Accountability",
+      "runs": [
+        {
+          "text": "SOA",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " – ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Span of Accountability",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 153,
+      "text": "Phạm vi nhiệm vụ cụ thể mà một cá nhân toàn quyền làm chủ và chịu trách nhiệm đầu ra ",
+      "runs": [
+        {
+          "text": "Phạm vi nhiệm vụ cụ thể mà một cá nhân toàn quyền làm chủ và chịu trách nhiệm đầu ra ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 154,
+      "text": "SOI - Span of Influence",
+      "runs": [
+        {
+          "text": "SOI - Span of Influence",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 155,
+      "text": "Nhóm liên quan trực tiếp đến luồng nhiệm vụ của bạn — có thể là bên phối hợp cộng tác hoặc chịu ảnh hưởng trực tiếp từ kết quả; thường là các bên trong cùng một chuỗi nhiệm vụ hoặc đầu mối liên quan.",
+      "runs": [
+        {
+          "text": "Nhóm liên quan trực tiếp đến luồng nhiệm vụ của bạn — có thể là bên phối hợp cộng tác hoặc chịu ảnh hưởng trực tiếp từ kết quả; thường là các bên trong cùng một chuỗi nhiệm vụ hoặc đầu mối liên quan.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 156,
+      "text": "SOC - Span of Control",
+      "runs": [
+        {
+          "text": "SOC - Span of Control",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 157,
+      "text": "Nguồn lực mà tổ chức cung cấp cho bạn để đảm nhiệm nhiệm vụ cụ thể ",
+      "runs": [
+        {
+          "text": "Nguồn lực mà tổ chức cung cấp cho bạn để đảm nhiệm nhiệm vụ cụ thể ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 158,
+      "text": "SOS - Span of Support",
+      "runs": [
+        {
+          "text": "SOS - Span of Support",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 159,
+      "text": "Nguồn lực mà tổ chức cung cấp để hỗ trợ bạn khi thực hiện nhiệm vụ — nhóm này bao gồm COL của bạn",
+      "runs": [
+        {
+          "text": "Nguồn lực mà tổ chức cung cấp để hỗ trợ bạn khi thực hiện nhiệm vụ — nhóm này bao gồm COL của bạn",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 160,
+      "text": "SOBC – Span of BC",
+      "runs": [
+        {
+          "text": "SOBC",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " – Span of BC",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 161,
+      "text": "Line báo cáo lên Hội đồng điều hành (BC) khi công việc bị tắc hoặc vượt quá thẩm quyền tự quyết",
+      "runs": [
+        {
+          "text": "Line báo cáo lên Hội đồng điều hành (BC) khi công việc bị tắc hoặc vượt quá thẩm quyền tự quyết",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 162,
+      "text": "FV: Fuctional Value",
+      "runs": [
+        {
+          "text": "FV: Fuctional Value",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 163,
+      "text": "Năng lực chuyên môn cốt lõi mà một đơn vị (tập đoàn, SBU, BU, CU) cần ",
+      "runs": [
+        {
+          "text": "Năng lực chuyên môn cốt lõi mà một đơn vị (tập đoàn, SBU, BU, CU) cần ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 164,
+      "text": "FVH: Fuctional value House ",
+      "runs": [
+        {
+          "text": "FVH: Fuctional value House ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 165,
+      "text": "“Ngôi nhà sự nghiệp” chứa nhiều FV để chăm sóc và nuôi dưỡng của một CBNV đạt tiêu chuẩn ILEAD ",
+      "runs": [
+        {
+          "text": "“Ngôi nhà sự nghiệp” chứa nhiều FV để chăm sóc và nuôi dưỡng của một CBNV đạt tiêu chuẩn ILEAD ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 166,
+      "text": "COE Lead ",
+      "runs": [
+        {
+          "text": "COE Lead ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 167,
+      "text": "COE Lead là người giữ nhịp trưởng thành, hòa nhập vào văn hóa, và thấu hiểu thiết kế tổ chức của các cá nhân trong cùng một COE.",
+      "runs": [
+        {
+          "text": "COE Lead là người giữ nhịp trưởng thành, hòa nhập vào văn hóa, và thấu hiểu thiết kế tổ chức của các cá nhân trong cùng một COE.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 168,
+      "text": "FD: Fuctional Domain ",
+      "runs": [
+        {
+          "text": "FD: Fuctional Domain ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 169,
+      "text": "Miền nghề - nhóm các chức năng và nhiệm vụ chuyên môn có liên quan, cùng tuân theo một chuẩn để thực hiện một mục tiêu cụ thể trong tổ chức",
+      "runs": [
+        {
+          "text": "Miền nghề - nh",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "óm các chức năng và nhiệm vụ chuyên môn có liên quan, cùng tuân theo một chuẩn để thực hiện một mục tiêu cụ thể trong tổ chức",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 170,
+      "text": "FD Lead",
+      "runs": [
+        {
+          "text": "FD Lead",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 171,
+      "text": "Người giữ chuẩn nghề cho đội ngũ, là người chịu trách nhiệm về chuẩn chuyên môn cho một miền nghề trong IPAG.",
+      "runs": [
+        {
+          "text": "Người giữ chuẩn nghề cho đội ngũ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ", l",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "à người chịu trách nhiệm về chuẩn chuyên môn cho một miền nghề trong IPAG",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ".",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 172,
+      "text": "FSC: Functional Standard of Capability",
+      "runs": [
+        {
+          "text": "FSC: Functional Standard of Capability",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 173,
+      "text": "Bộ tiêu chuẩn năng lực chuyên môn của một nghề, thể hiện những kiến thức và năng lực mà một nghề cần biết dựa trên các thực hành tốt nhất (best practice)",
+      "runs": [
+        {
+          "text": "Bộ tiêu chuẩn năng lực",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " chuyên môn",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " của một nghề, thể hiện những kiến thức và năng lực mà một nghề cần biết dựa trên các thực hành tốt nhất (best practice)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 174,
+      "text": "FCH – FC Head ",
+      "runs": [
+        {
+          "text": "FCH – FC ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "H",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ead ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 175,
+      "text": "Là người đứng đầu trọn một chuỗi vận hành (FC), chăm luồng việc trong FC và chịu trách nhiệm về Outcomes & Business Impact (OB) của FC.",
+      "runs": [
+        {
+          "text": "Là người đứng đầu trọn một chuỗi vận hành (FC), chăm luồng việc trong FC và chịu trách nhiệm về Outcomes & Business Impact (OB) của FC.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 176,
+      "text": "OCH – OC Head",
+      "runs": [
+        {
+          "text": "OCH – OC Head",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 177,
+      "text": "Là người đứng đầu trọn một OC, chăm luồng việc trong OC từ lúc mở đến lúc đóng và chịu trách nhiệm về OKR của OC ",
+      "runs": [
+        {
+          "text": "Là người đứng đầu trọn một OC, chăm luồng việc trong OC từ lúc mở đến lúc đóng và chịu trách nhiệm về OKR của OC ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 178,
+      "text": "FCO – FC Owner ",
+      "runs": [
+        {
+          "text": "FCO – FC Owner ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 179,
+      "text": "Người chủ nhiệm một ô việc (FVC) trong một chuỗi vận hành FC. FCO chịu trách nhiệm làm ra Ouput making (OM)",
+      "runs": [
+        {
+          "text": "Người chủ nhiệm một ô việc (FVC) trong một chuỗi vận hành FC. FCO chịu trách nhiệm làm ra Ouput making (OM)",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 180,
+      "text": "FVC – Functional Value Cell",
+      "runs": [
+        {
+          "text": "FVC – Functional Value Cell",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 181,
+      "text": "Là một “ô việc” trong một chuỗi công việc thuộc FC.  Mỗi ô cần một năng lực cụ thể để làm ra một kết quả rõ ràng.",
+      "runs": [
+        {
+          "text": "L",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "à một “ô việc” trong một chuỗi công việc",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " thuộc FC. ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " Mỗi ô cần một năng lực cụ thể để làm ra một kết quả rõ ràng.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 182,
+      "text": "OPD - One Person Delegation",
+      "runs": [
+        {
+          "text": "OPD - One Person Delegation",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 183,
+      "text": "Nguyên tắc “mỗi việc, một người chịu trách nhiệm chính. ",
+      "runs": [
+        {
+          "text": "Nguyên tắc “mỗi việc, một người chịu trách nhiệm chính",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ". ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 184,
+      "text": "PHẦN V: ILEAD",
+      "runs": [
+        {
+          "text": "PHẦN V: ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ILEAD",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 185,
+      "text": "ILEAD: Chủ nhiệm và tự chủ",
+      "runs": [
+        {
+          "text": "ILEAD",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Chủ nhiệm và tự chủ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 186,
+      "text": "ILead là Người làm nghề tự chủ, hình mẫu mà mỗi CBNV làm việc tại IPAG hướng tới để trở thành, bao gồm: ",
+      "runs": [
+        {
+          "text": "ILead là Người làm nghề tự chủ, hình mẫu mà mỗi CBNV làm việc tại IPAG hướng tới để trở thành",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": ", bao gồm: ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 187,
+      "text": "I - TỰ CHỦ: Tự giác làm chủ công việc, không thụ động đợi ai giao mới làm.",
+      "runs": [
+        {
+          "text": "I - ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "TỰ CHỦ:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Tự giác làm chủ công việc, không thụ động đợi ai giao mới làm.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 188,
+      "text": "L - LEAD – Tự dẫn dắt : Lãnh đạo bản thân trước khi dẫn dắt người khác",
+      "runs": [
+        {
+          "text": "L ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "LEAD – ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Tự dẫn dắt ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Lãnh đạo bản thân trước khi dẫn dắt người khác",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 189,
+      "text": "E - EMPOWER – Tự trao quyền: Biết nhận quyền tự quyết và sẵn sàng chia sẻ/trao lại quyền cho đồng nghiệp.",
+      "runs": [
+        {
+          "text": "E ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "EMPOWER – ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "T",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ự t",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "rao quyền:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Biết nhận quyền tự quyết và sẵn sàng chia sẻ/trao lại quyền cho đồng nghiệp.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 190,
+      "text": "A - ACCOUNTABLE – Tự chịu trách nhiệm: Chịu trách nhiệm tới cùng về kết quả thực tế, không chỉ báo cáo nỗ lực.",
+      "runs": [
+        {
+          "text": "A ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ACCOUNTABLE – ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "T",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ự c",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "hịu trách nhiệm:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Chịu trách nhiệm tới cùng về kết quả thực tế, không chỉ báo cáo nỗ lực.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 191,
+      "text": "D - DEVELOP – Tự phát triển: Bản thân tự lớn lên và giúp những người xung quanh cùng trưởng thành.",
+      "runs": [
+        {
+          "text": "D ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "- ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "DEVELOP – ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "T",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ự p",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "hát triển:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Bản thân tự lớn lên và giúp những người xung quanh cùng trưởng thành.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 192,
+      "text": "iLead Compass ",
+      "runs": [
+        {
+          "text": "iLead Compass ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 193,
+      "text": "Bộ La Bàn 4 kim giúp mỗi cá nhân tự định vị công việc hằng ngày:",
+      "runs": [
+        {
+          "text": "Bộ La Bàn 4 kim giúp mỗi cá nhân tự định vị công việc hằng ngày:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 194,
+      "text": "iGo: Tôi là ai và đi về hướng nào?",
+      "runs": [
+        {
+          "text": "iGo:",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " Tôi là ai và đi về hướng nào?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 195,
+      "text": "iWork: Tôi nhận trách nhiệm gì và đóng góp giá trị ra sao?",
+      "runs": [
+        {
+          "text": "iWork:",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " Tôi nhận trách nhiệm gì và đóng góp giá trị ra sao?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 196,
+      "text": "iLink: Tôi kết nối với ai và ai là người đồng hành/hỗ trợ tôi?",
+      "runs": [
+        {
+          "text": "iLink:",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " Tôi kết nối với ai và ai là người ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "đồng hành/hỗ trợ tôi",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 197,
+      "text": "iValues: Tôi tạo ra giá trị gì cho bản thân và tổ chức?",
+      "runs": [
+        {
+          "text": "iValues:",
+          "bold": null,
+          "italic": true
+        },
+        {
+          "text": " Tôi tạo ra giá trị gì cho bản thân và tổ chức?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 198,
+      "text": "5PoA: Five Parttern of Action ",
+      "runs": [
+        {
+          "text": "5PoA: Five Parttern of Action ",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 199,
+      "text": "Năm nếp làm nghề của người IPAG bao gồm:",
+      "runs": [
+        {
+          "text": "Năm nếp làm nghề của người IPAG bao gồm:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 200,
+      "text": "Nếp Trà Việt ",
+      "runs": [
+        {
+          "text": "Nếp Trà Việt ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 201,
+      "text": "Nếp La Bàn ",
+      "runs": [
+        {
+          "text": "Nếp La Bàn ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "text": "Nếp Soi sáng",
+      "runs": [
+        {
+          "text": "Nếp ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Soi sáng",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 203,
+      "text": "Nếp Công sự ",
+      "runs": [
+        {
+          "text": "Nếp ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "Công sự ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 204,
+      "text": "Nếp chủ nhiệm ",
+      "runs": [
+        {
+          "text": "Nếp chủ nhiệm ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 205,
+      "text": "SBI",
+      "runs": [
+        {
+          "text": "SBI",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 206,
+      "text": "Khuôn mẫu dùng dùng để quan sát và ghi nhận trọn vẹn một sự việc (vấn đề) đã xảy ra:",
+      "runs": [
+        {
+          "text": "Khuôn mẫu dùng dùng để ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "quan sát",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " và ghi nhận trọn vẹn một sự việc (vấn đề) đã xảy ra:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 207,
+      "text": "Situation: Tình huống cụ thể xảy ra",
+      "runs": [
+        {
+          "text": "Situation",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "T",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ình huống cụ thể xảy ra",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 208,
+      "text": "Behavior: Hành vi cụ thể đã thực hiện",
+      "runs": [
+        {
+          "text": "Behavior:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Hành vi cụ thể đã thực hiện",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 209,
+      "text": "Impact: Tác động thực tế của hành vi",
+      "runs": [
+        {
+          "text": "Impact:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "T",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "ác động thực tế của hành vi",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 211,
+      "text": "TAC:  Transform – Amplify – Continue",
+      "runs": [
+        {
+          "text": "TAC:  Transform – Amplify – Continue",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 212,
+      "text": "Khuôn mẫu nhận diện một luồng việc trong FC, giúp FC team nhìn lại chu kỳ công việc qua 3 chiều:",
+      "runs": [
+        {
+          "text": "Khuôn mẫu nhận diện ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "một luồng việc trong FC, ",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "giúp FC team nhìn lại chu kỳ công việc qua 3 chiều:",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 213,
+      "text": "T — Transform: chỉ ra điểm tắc nghẽn hoặc cách làm cũ đang cản trở hiệu quả, đề xuất hướng thay đổi.",
+      "runs": [
+        {
+          "text": "T — Transform",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": chỉ ra điểm tắc nghẽn hoặc cách làm cũ đang cản trở hiệu quả, đề xuất hướng thay đổi.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 214,
+      "text": "A — Amplify: nhận diện điểm tích cực, điểm mạnh chưa được củng cố; tổng hợp các SBI đủ điều kiện mở IPAM Session.",
+      "runs": [
+        {
+          "text": "A — Amplify",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": nhận diện điểm tích cực, điểm mạnh chưa được củng cố; tổng hợp các SBI đủ điều kiện mở IPAM Session.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 215,
+      "text": "C — Continue: ghi nhận nếp làm việc hiệu quả cần phát huy, đảm bảo tri thức được đóng gói và hệ thống hoá.",
+      "runs": [
+        {
+          "text": "C — Continue: ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "ghi nhận nếp làm việc hiệu quả cần phát huy, đảm bảo tri thức được đóng gói và hệ thống hoá.",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 216,
+      "text": "CAT: Connect with Heart - Added Value - Transfer with Excellence",
+      "runs": [
+        {
+          "text": "CAT",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": ": Connect with ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "Heart -",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Added Value - Transfer with ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "E",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "xcellence",
+          "bold": true,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 217,
+      "text": "Khuôn mẫu nhận diện một người làm việc trong OC ",
+      "runs": [
+        {
+          "text": "Khuôn mẫu nhận diện một người làm việc trong OC ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 218,
+      "text": "C – Connect with Heart: Người này có dốc lòng làm việc/kết nối bằng trái tim không?",
+      "runs": [
+        {
+          "text": "C – Connect with ",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "H",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": "eart:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Người này có dốc lòng làm việc/kết nối bằng trái tim không",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 219,
+      "text": "A – Added Value: Người này có tạo ra thêm giá trị không? ",
+      "runs": [
+        {
+          "text": "A – Added Value:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Người này có tạo ra thêm giá trị không? ",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    },
+    {
+      "index": 220,
+      "text": "T – Transfer with Excellence: Người này đã để lại được gia tài gì?",
+      "runs": [
+        {
+          "text": "T – Transfer with Excellence:",
+          "bold": true,
+          "italic": null
+        },
+        {
+          "text": " Người này đã để lại được gi",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "a",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": " tài gì",
+          "bold": null,
+          "italic": null
+        },
+        {
+          "text": "?",
+          "bold": null,
+          "italic": null
+        }
+      ]
+    }
+  ],
+  "toc": [
+    [
+      "Phần",
+      "Chủ đề ",
+      "Nội dung "
+    ],
+    [
+      "I",
+      "IPA",
+      "Các khái niệm dùng để dựng chiến lược của tổ chức và Tam bảo của đội ngũ "
+    ],
+    [
+      "II",
+      "IPAM",
+      "Các khái niệm dùng để dựng ngôi nhà năng lực và quản trị vận hành "
+    ],
+    [
+      "III",
+      "IPAG",
+      "Các khái niệm dùng để dựng gia tài và kho tri thức của IPAG "
+    ],
+    [
+      "IV",
+      "EPIC",
+      "Các khái niệm dùng để dựng cộng sự và đội ngũ"
+    ],
+    [
+      "V",
+      "ILEAD",
+      "Các khái niệm dụng để dựng chủ nhiệm và sự tự chủ của một cá nhân"
+    ]
+  ],
+  "sourceName": "Glossary IPAG_15102026 2.docx"
+}
