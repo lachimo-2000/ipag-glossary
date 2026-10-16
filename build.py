@@ -9,7 +9,7 @@ p.add_argument('--body-bold-font',type=Path)
 p.add_argument('--output',type=Path,default=ROOT/'index.html')
 a=p.parse_args()
 assets={k:'data:image/png;base64,'+base64.b64encode((ROOT/'assets'/n).read_bytes()).decode() for k,n in [('logoColor','logo-color.png'),('logoWhite','logo-white.png'),('building','building.png')]}
-css=(ROOT/'base.css').read_text()+'\n'+(ROOT/'enhancements.css').read_text()
+css=(ROOT/'styles.css').read_text()
 for font,family,weight in [(a.heading_font,'UTM Hanzel','100 900'),(a.body_font,'SVN Gotham','400'),(a.body_bold_font,'SVN Gotham','700')]:
  if font:
   mime={'.woff2':'font/woff2','.woff':'font/woff','.ttf':'font/ttf','.otf':'font/otf'}.get(font.suffix.lower())
