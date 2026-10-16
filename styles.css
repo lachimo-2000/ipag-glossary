@@ -36,3 +36,35 @@
 @media(max-width:700px){.contents-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.content-card,.content-card:nth-child(n+4){grid-column:span 1}.content-card:last-child{grid-column:1/-1;min-height:260px}.contents-heading{gap:14px}.contents-heading h2{font-size:25px}}
 @media(max-width:480px){.home-contents{margin-top:38px}.contents-heading{gap:12px;margin-bottom:20px}.contents-heading .eyebrow{font-size:11px}.contents-grid{grid-template-columns:1fr;gap:14px}.content-card,.content-card:nth-child(n+4),.content-card:last-child{grid-column:auto;min-height:250px;padding:24px}.content-topic{font-size:28px}.content-description{font-size:16px}.contents-closing{padding:26px 24px 26px 52px}.quote-mark{left:15px;top:20px;font-size:48px}.contents-closing p{font-size:16px}.purpose-grid h3{font-size:20px}}
 @media(prefers-reduced-motion:reduce){.contents-grid.is-revealed .content-card{animation:none}.content-card:hover,.content-card:focus-visible,.content-card:active,.content-card:hover .content-card-bottom svg,.content-card:focus-visible .content-card-bottom svg{transform:none}}
+
+/* 4.2: searchable comparison pickers and staggered purpose cards. */
+.term-picker{position:relative;margin-bottom:30px}
+.picker-trigger{width:100%;display:flex;align-items:center;justify-content:space-between;gap:14px;text-align:left;padding:14px 16px;border:1px solid var(--line);border-radius:9px;background:var(--white);color:var(--deep);min-height:54px;line-height:1.5}
+.picker-trigger>span{min-width:0;overflow-wrap:anywhere}
+.picker-trigger:hover{background:rgba(231,221,201,.3);border-color:var(--blue)}
+.picker-trigger[aria-expanded=true]{border-color:var(--blue);box-shadow:0 0 0 3px rgba(89,121,143,.12)}
+.picker-trigger[aria-expanded=true]>svg{transform:rotate(180deg)}
+.picker-trigger>svg{width:18px;height:18px;transition:transform .18s}
+.picker-popup{position:absolute;z-index:12;inset:calc(100% + 8px) 0 auto;background:var(--white);border:1px solid var(--line);border-radius:12px;box-shadow:0 16px 36px rgba(33,33,33,.17);overflow:hidden}
+.picker-search{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid var(--line);color:var(--deep)}
+.picker-search input{min-width:0;width:100%;background:transparent;border:0;padding:10px 0;font-size:16px;color:var(--ink);outline:none}
+.picker-search input:focus-visible{outline:none}
+.picker-search:focus-within{box-shadow:inset 0 -2px var(--blue)}
+.picker-clear{display:flex;align-items:center;justify-content:center;background:transparent;color:var(--deep);width:32px;height:36px;border-radius:6px;flex-shrink:0}
+.picker-clear svg{width:16px;height:16px}
+.picker-clear:hover{background:var(--sand)}
+.picker-options{max-height:min(320px,45dvh);overflow:auto;overscroll-behavior:contain;padding:6px}
+.picker-option{display:flex;gap:12px;justify-content:space-between;padding:12px;border-radius:7px;cursor:pointer;color:var(--ink);transition:background .15s}
+.picker-option>span:first-child{min-width:0;display:flex;flex-direction:column;gap:4px}
+.picker-option strong{font-size:16px;color:var(--deep)}
+.picker-option>span>span{font-size:13px;line-height:1.6;overflow-wrap:anywhere}
+.picker-option:hover,.picker-option[aria-selected=true]{background:var(--sand)}
+.picker-check{color:var(--deep);font-size:17px;align-self:center}
+.compare-pane .picker-count{font-size:12px;color:var(--deep);padding:10px 16px;margin:0;border-top:1px solid var(--line);line-height:1.5}
+.compare-pane .picker-empty{font-size:14px;padding:20px 14px;margin:0;line-height:1.6}
+.purpose-card.reveal-ready:not(.is-revealed){opacity:0;transform:translateY(24px)}
+.purpose-card.is-revealed{animation:purpose-arrive .7s cubic-bezier(.2,.7,.2,1) backwards;animation-delay:calc(var(--purpose-index) * 140ms)}
+.contents-grid.reveal-ready:not(.is-revealed) .content-card{opacity:0;transform:translateY(24px)}
+@keyframes purpose-arrive{from{opacity:0;transform:translateY(24px) scale(.985)}to{opacity:1;transform:translateY(0) scale(1)}}
+@media(prefers-reduced-motion:reduce){.purpose-card.reveal-ready:not(.is-revealed),.contents-grid.reveal-ready:not(.is-revealed) .content-card{opacity:1;transform:none}.purpose-card.is-revealed{animation:none}}
+@media print{.purpose-card.reveal-ready:not(.is-revealed),.contents-grid.reveal-ready:not(.is-revealed) .content-card{opacity:1;transform:none;animation:none}.picker-popup{display:none}}
