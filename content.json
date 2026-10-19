@@ -6252,10 +6252,10 @@
       "paragraphs": [
         {
           "index": 207,
-          "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ):  ",
+          "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ): ",
           "runs": [
             {
-              "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ):  ",
+              "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ): ",
               "bold": false,
               "italic": false
             }
@@ -6264,25 +6264,20 @@
         },
         {
           "index": 208,
-          "text": "Nếp Trà Việt:",
+          "text": "Nếp Trà Việt (PoA ① IPA): nếp khởi đầu đúng tâm (nhịp Khởi) — gốc Tâm, luyện lực Tín. Công cụ: Tam bảo (COL – COP – COE) để biết tìm ai, tra gì khi vướng; đo bằng ERC. ",
           "runs": [
             {
-              "text": "Nếp",
+              "text": "N",
               "bold": false,
               "italic": false
             },
             {
-              "text": " Trà ",
+              "text": "ếp",
               "bold": false,
               "italic": false
             },
             {
-              "text": "Việt",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": ":",
+              "text": " Trà Việt (PoA ① IPA): nếp khởi đầu đúng tâm (nhịp Khởi) — gốc Tâm, luyện lực Tín. Công cụ: Tam bảo (COL – COP – COE) để biết tìm ai, tra gì khi vướng; đo bằng ERC. ",
               "bold": false,
               "italic": false
             }
@@ -6291,15 +6286,10 @@
         },
         {
           "index": 209,
-          "text": "Nếp La Bàn ",
+          "text": "Nếp La Bàn (PoA ② Compass): nếp tự định vị công việc hằng ngày (nhịp Hành) — gốc Tầm, luyện lực Tấn. Công cụ: bộ La Bàn 4 kim iGo – iWork – iLink – iPerform; đo bằng TDSCP. ",
           "runs": [
             {
-              "text": "Nếp La ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Bàn ",
+              "text": "Nếp La Bàn (PoA ② Compass): nếp tự định vị công việc hằng ngày (nhịp Hành) — gốc Tầm, luyện lực Tấn. Công cụ: bộ La Bàn 4 kim iGo – iWork – iLink – iPerform; đo bằng TDSCP. ",
               "bold": false,
               "italic": false
             }
@@ -6308,25 +6298,10 @@
         },
         {
           "index": 210,
-          "text": "Nếp Soi sáng",
+          "text": "Nếp Soi sáng (PoA ③ IPAX): nếp nhìn lại để học và giữ lại tinh hoa (nhịp Tinh) — gốc Trí, luyện lực Niệm. Công cụ: SBI (soi một sự việc), TAC (soi một luồng việc trong FC), CAT (soi một người làm việc trong OC); đo bằng BMI và GMI. ",
           "runs": [
             {
-              "text": "Nếp",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": " ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "Soi ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "sáng",
+              "text": "Nếp Soi sáng (PoA ③ IPAX): nếp nhìn lại để học và giữ lại tinh hoa (nhịp Tinh) — gốc Trí, luyện lực Niệm. Công cụ: SBI (soi một sự việc), TAC (soi một luồng việc trong FC), CAT (soi một người làm việc trong OC); đo bằng BMI và GMI. ",
               "bold": false,
               "italic": false
             }
@@ -6335,35 +6310,10 @@
         },
         {
           "index": 211,
-          "text": "Nếp Cộng sự ",
+          "text": "Nếp Cộng sự (PoA ④ EPIC): nếp cùng làm, cùng gánh (nhịp Thông) — gốc Hạnh, luyện lực Định. Công cụ: 4 cùng của EPIC (trao quyền – tiếp sức – tạo giá trị – cộng tác) và đội cộng sự 5S. ",
           "runs": [
             {
-              "text": "Nếp ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "C",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "ộng",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": " ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "sự",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": " ",
+              "text": "Nếp Cộng sự (PoA ④ EPIC): nếp cùng làm, cùng gánh (nhịp Thông) — gốc Hạnh, luyện lực Định. Công cụ: 4 cùng của EPIC (trao quyền – tiếp sức – tạo giá trị – cộng tác) và đội cộng sự 5S. ",
               "bold": false,
               "italic": false
             }
@@ -6372,15 +6322,10 @@
         },
         {
           "index": 212,
-          "text": "Nếp chủ nhiệm ",
+          "text": "Nếp Chủ nhiệm (PoA ⑤ iLead): nếp làm chủ một việc từ đầu đến kết quả (nhịp Chuyên) — gốc Nguyện, luyện lực Tuệ. Công cụ: iLead (Tự chủ – Lead – Empower – Accountable – Develop) và nguyên tắc OPD; đo bằng BMI/IMI, KPI, OKR. ",
           "runs": [
             {
-              "text": "Nếp ",
-              "bold": false,
-              "italic": false
-            },
-            {
-              "text": "chủ nhiệm",
+              "text": "Nếp Chủ nhiệm (PoA ⑤ iLead): nếp làm chủ một việc từ đầu đến kết quả (nhịp Chuyên) — gốc Nguyện, luyện lực Tuệ. Công cụ: iLead (Tự chủ – Lead – Empower – Accountable – Develop) và nguyên tắc OPD; đo bằng BMI/IMI, KPI, OKR.",
               "bold": false,
               "italic": false
             },
@@ -13835,10 +13780,10 @@
     },
     {
       "index": 207,
-      "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ):  ",
+      "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ): ",
       "runs": [
         {
-          "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ):  ",
+          "text": "Năm nếp làm nghề của người IPAG bao gồm (khung 5PoA của bộ iLead, thuộc PCKSA). Mỗi nếp là một việc làm đi làm lại, đếm được; mỗi nếp luyện một gốc (Tâm, Tầm, Trí, Hạnh, Nguyện) và cho ra một lực (Tín, Tấn, Niệm, Định, Tuệ): ",
           "bold": false,
           "italic": false
         }
@@ -13847,25 +13792,20 @@
     },
     {
       "index": 208,
-      "text": "Nếp Trà Việt:",
+      "text": "Nếp Trà Việt (PoA ① IPA): nếp khởi đầu đúng tâm (nhịp Khởi) — gốc Tâm, luyện lực Tín. Công cụ: Tam bảo (COL – COP – COE) để biết tìm ai, tra gì khi vướng; đo bằng ERC. ",
       "runs": [
         {
-          "text": "Nếp",
+          "text": "N",
           "bold": false,
           "italic": false
         },
         {
-          "text": " Trà ",
+          "text": "ếp",
           "bold": false,
           "italic": false
         },
         {
-          "text": "Việt",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": ":",
+          "text": " Trà Việt (PoA ① IPA): nếp khởi đầu đúng tâm (nhịp Khởi) — gốc Tâm, luyện lực Tín. Công cụ: Tam bảo (COL – COP – COE) để biết tìm ai, tra gì khi vướng; đo bằng ERC. ",
           "bold": false,
           "italic": false
         }
@@ -13874,15 +13814,10 @@
     },
     {
       "index": 209,
-      "text": "Nếp La Bàn ",
+      "text": "Nếp La Bàn (PoA ② Compass): nếp tự định vị công việc hằng ngày (nhịp Hành) — gốc Tầm, luyện lực Tấn. Công cụ: bộ La Bàn 4 kim iGo – iWork – iLink – iPerform; đo bằng TDSCP. ",
       "runs": [
         {
-          "text": "Nếp La ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "Bàn ",
+          "text": "Nếp La Bàn (PoA ② Compass): nếp tự định vị công việc hằng ngày (nhịp Hành) — gốc Tầm, luyện lực Tấn. Công cụ: bộ La Bàn 4 kim iGo – iWork – iLink – iPerform; đo bằng TDSCP. ",
           "bold": false,
           "italic": false
         }
@@ -13891,25 +13826,10 @@
     },
     {
       "index": 210,
-      "text": "Nếp Soi sáng",
+      "text": "Nếp Soi sáng (PoA ③ IPAX): nếp nhìn lại để học và giữ lại tinh hoa (nhịp Tinh) — gốc Trí, luyện lực Niệm. Công cụ: SBI (soi một sự việc), TAC (soi một luồng việc trong FC), CAT (soi một người làm việc trong OC); đo bằng BMI và GMI. ",
       "runs": [
         {
-          "text": "Nếp",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": " ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "Soi ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "sáng",
+          "text": "Nếp Soi sáng (PoA ③ IPAX): nếp nhìn lại để học và giữ lại tinh hoa (nhịp Tinh) — gốc Trí, luyện lực Niệm. Công cụ: SBI (soi một sự việc), TAC (soi một luồng việc trong FC), CAT (soi một người làm việc trong OC); đo bằng BMI và GMI. ",
           "bold": false,
           "italic": false
         }
@@ -13918,35 +13838,10 @@
     },
     {
       "index": 211,
-      "text": "Nếp Cộng sự ",
+      "text": "Nếp Cộng sự (PoA ④ EPIC): nếp cùng làm, cùng gánh (nhịp Thông) — gốc Hạnh, luyện lực Định. Công cụ: 4 cùng của EPIC (trao quyền – tiếp sức – tạo giá trị – cộng tác) và đội cộng sự 5S. ",
       "runs": [
         {
-          "text": "Nếp ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "C",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "ộng",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": " ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "sự",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": " ",
+          "text": "Nếp Cộng sự (PoA ④ EPIC): nếp cùng làm, cùng gánh (nhịp Thông) — gốc Hạnh, luyện lực Định. Công cụ: 4 cùng của EPIC (trao quyền – tiếp sức – tạo giá trị – cộng tác) và đội cộng sự 5S. ",
           "bold": false,
           "italic": false
         }
@@ -13955,15 +13850,10 @@
     },
     {
       "index": 212,
-      "text": "Nếp chủ nhiệm ",
+      "text": "Nếp Chủ nhiệm (PoA ⑤ iLead): nếp làm chủ một việc từ đầu đến kết quả (nhịp Chuyên) — gốc Nguyện, luyện lực Tuệ. Công cụ: iLead (Tự chủ – Lead – Empower – Accountable – Develop) và nguyên tắc OPD; đo bằng BMI/IMI, KPI, OKR. ",
       "runs": [
         {
-          "text": "Nếp ",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "text": "chủ nhiệm",
+          "text": "Nếp Chủ nhiệm (PoA ⑤ iLead): nếp làm chủ một việc từ đầu đến kết quả (nhịp Chuyên) — gốc Nguyện, luyện lực Tuệ. Công cụ: iLead (Tự chủ – Lead – Empower – Accountable – Develop) và nguyên tắc OPD; đo bằng BMI/IMI, KPI, OKR.",
           "bold": false,
           "italic": false
         },
@@ -14339,5 +14229,5 @@
     ]
   ],
   "closingIndex": 15,
-  "sourceName": "Glossary IPAG_19102026 (3).docx"
+  "sourceName": "Glossary IPAG_19102026 (4).docx"
 }

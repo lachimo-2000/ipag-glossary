@@ -1,69 +1,59 @@
-# IPAG Glossary — giao diện 5.0
+# IPAG Glossary — giao diện 5.1
 
-Cập nhật **19/10/2026**. Nguồn nội dung: **Glossary IPAG_19102026 (3).docx**, phiên bản nội dung 2.0, tháng 10/2026.
+Cập nhật **19/10/2026**. Nội dung lấy từ **Glossary IPAG_19102026 (4).docx**, phiên bản nội dung 2.0, tháng 10/2026.
 
-## Áp dụng bản cập nhật
+## Áp dụng
 
-ZIP cập nhật chỉ chứa các file khác với giao diện 4.2. Giải nén và ghi đè vào thư mục ứng dụng hiện tại, giữ nguyên các file còn lại. Khi upload qua trình duyệt lên GitHub, giữ đúng thư mục `tests/` của file kiểm tra. Không cần cài npm hoặc chạy server.
+ZIP này chỉ chứa các file thay đổi so với 5.0. Giải nén và ghi đè đúng vị trí trong thư mục ứng dụng; giữ lại các file khác. Khi upload trên GitHub, giữ đúng thư mục `tests/` của file kiểm tra.
 
-`index.html` đã nhúng nội dung, CSS, JavaScript, hai logo và ảnh nền; có thể mở trực tiếp hoặc gửi riêng cho người nhận. File HTML vẫn dùng được khi không có Internet.
+Có thể mở riêng `index.html` bằng trình duyệt hoặc gửi file này cho người khác; dữ liệu, giao diện và ảnh đã nhúng, dùng được khi không có Internet.
 
-## Thay đổi từ 4.2
+## Thay đổi từ 5.0
 
-- Cập nhật đủ **62 thuật ngữ** từ Word ngày 19/10/2026: IPA 9, IPAM 22, IPAG 7, EPIC 18, iLead 6.
-- Nội dung giải thích lấy từ Word đúng; HTML được gửi chỉ dùng tham khảo cấu trúc giao diện “Năm bộ, một vòng”.
-- Trang chủ thể hiện năm bộ nối nhau: Khởi – Hành – Tinh – Thông – Chuyên, kèm khung 5P, 5C, 5K, 5S, 5PoA theo tham chiếu được yêu cầu.
-- Chuyển nút Tra cứu thuật ngữ xuống dưới Nội dung chính, tăng kích thước và làm nổi bật.
-- Menu chính còn Trang chủ, Tra cứu, So sánh. Hướng dẫn chuyển vào khối Ba cách tra cứu ngay trên trang tra cứu.
-- Tra cứu hiển thị đầy đủ thuật ngữ và phần giải thích ngay trên cùng một trang, chia năm phần. Không còn mở chi tiết bằng lớp phủ.
-- Tra nhanh A–Z hiển thị **tên thuật ngữ cụ thể**, sắp theo alphabet. Khi chọn một phần hoặc tìm kiếm, danh sách nhảy nhanh cập nhật theo phạm vi đó.
-- Liên kết thuật ngữ trong giải thích nhảy đến mục tương ứng. Nút Quay lại vị trí trước khôi phục phần, từ khóa và vị trí cuộn trước khi nhảy.
-- Sửa bộ chọn so sánh: mỗi cột có ô tìm kiếm và danh sách chọn HTML chuẩn của trình duyệt. Sau khi gõ, mở danh sách để chọn kết quả; có thể nhấn Enter để chọn kết quả đầu tiên. Hai cột chọn độc lập.
-- Giữ hiệu ứng xuất hiện lần lượt, hover và focus trong bảng màu IPA; tôn trọng thiết lập giảm chuyển động.
+- Tìm trên cả mã, tên đầy đủ và toàn bộ giải nghĩa, hỗ trợ chuỗi ký tự ở đầu, giữa hoặc cuối từ, kể cả chuỗi một hoặc hai ký tự. Áp dụng cho Tra cứu và cả hai cột So sánh.
+- Tiếp tục không phân biệt hoa/thường và dấu tiếng Việt khi tìm kiếm. Tên mã khớp chính xác vẫn có ưu tiên cao nhất.
+- Bỏ nút X trên menu, giữ nút ba thanh ngang. Trên điện thoại, nút này vẫn hiển thị và truy cập được bằng bàn phím khi menu mở; cũng có thể đóng bằng Esc hoặc bấm ra vùng bên ngoài.
+- Mỗi thuật ngữ chỉ có một tiêu đề lớn màu xanh, sử dụng nguyên tiêu đề đầy đủ của Word; không lặp mã ở hai tiêu đề.
+- Chuyển hướng dẫn về trang chủ, gồm tìm kiếm, đọc theo năm phần, tra nhanh A–Z và so sánh.
+- Cập nhật nguyên văn nội dung 5PoA, đặc biệt năm nếp làm nghề chi tiết, từ Word (4).
+- Bỏ giới hạn 730px ở đoạn giới thiệu “Năm bộ, một vòng” để tận dụng chiều rộng sẵn có; trên màn hình nhỏ văn bản vẫn tự ngắt dòng.
 
-## Tính nguyên vẹn của nội dung
+## Nội dung và điều hướng
 
-Đã đối chiếu **62 tiêu đề**, **134 đoạn giải thích** và **214 đoạn nguồn** với Word. Giữ nguyên chữ, dấu, cách viết và cả những chỗ có thể là lỗi biên tập trong nguồn; không tự sửa hoặc bổ sung định nghĩa.
+Có **62 thuật ngữ**: IPA 9, IPAM 22, IPAG 7, EPIC 18, iLead 6. Tra cứu hiển thị đầy đủ giải nghĩa trên cùng một trang. Danh sách nhảy nhanh hiển thị tên thuật ngữ, sắp A–Z và thay đổi theo phần/từ khóa đang chọn.
 
-Bốn ô mục đích sử dụng trên trang chủ tiếp tục bỏ dấu hai chấm và khoảng trắng ngăn cách đầu phần mô tả theo feedback đã duyệt. Dữ liệu gốc trong `content.json` vẫn giữ nguyên.
+Liên kết trong giải nghĩa vẫn dùng quy tắc **đúng từ, đúng dấu, đúng kiểu chữ**, nhận dấu câu làm ranh giới. Quy tắc này độc lập với tìm kiếm linh hoạt, tránh liên kết “tắc” thành TAC hoặc “cụ” thành CU.
 
-Không sử dụng thư “Gia tài của chúng ta” đã đính kèm nhầm. Không lấy phần định nghĩa từ HTML tham khảo để thay thế Word.
+Trong So sánh, gõ từ khóa ở từng cột rồi chọn từ danh sách. Nhấn Enter để chọn kết quả đầu tiên. Hai cột độc lập. Bộ chọn dùng phần tử select chuẩn của trình duyệt.
 
-## Tìm kiếm và liên kết
+## Các file thay đổi
 
-Tìm kiếm hỗ trợ không dấu, không phân biệt hoa/thường và gợi ý lỗi gõ nhỏ cho từ đủ dài. Thứ tự ưu tiên: tên mục khớp chính xác → từ/cụm từ trong tiêu đề → đầu từ/một phần tiêu đề → gần đúng → nội dung giải thích. Truy vấn ngắn như OC không nhận “học” chỉ vì bỏ dấu thành “hoc”. Kết quả chia theo phần; phần có kết quả phù hợp nhất được đưa lên trước khi tìm kiếm.
-
-Liên kết tự động dùng quy tắc riêng: **đúng từ, đúng dấu, đúng kiểu chữ**. Ví dụ TAC liên kết được trong `(TAC)`, `TAC,` hoặc `TAC/OC`; “tắc”, “tac”, “cụ” và “cu” không bị liên kết sai. Các chữ, số, dấu kết hợp Unicode và dấu gạch dưới được xem là thành phần của từ. Thuật ngữ dài được ưu tiên để tránh chia nhỏ thành các liên kết ngắn.
-
-## Các file cập nhật
-
-- `index.html`: ứng dụng HTML chạy độc lập.
-- `app.js`: điều hướng, tìm kiếm, đọc liền trang, nhảy nhanh và so sánh.
-- `styles.css`: giao diện responsive và hiệu ứng.
+- `index.html`: bản chạy độc lập.
+- `app.js`: tìm kiếm, tiêu đề, menu và vị trí hướng dẫn.
+- `styles.css`: trình bày tiêu đề, hướng dẫn và nút menu trên điện thoại.
 - `content.json`: dữ liệu Word mới.
-- `shell.html`: khung tạo HTML, đã bỏ dialog chi tiết cũ.
-- `tests/verify.cjs`: kiểm tra logic cho giao diện mới.
+- `tests/verify.cjs`: kiểm tra logic cập nhật.
 - `README.md`: hướng dẫn này.
 
-Các logo, ảnh nền, `.nojekyll` và `build.py` không thay đổi so với 4.2 nên không kèm lại trong ZIP cập nhật.
+Logo, ảnh nền, `build.py`, `shell.html` và `.nojekyll` không thay đổi nên không kèm lại trong ZIP cập nhật.
 
-## Tạo lại HTML và kiểm tra
+## Tạo lại HTML
 
-Tại thư mục ứng dụng đã có đủ file từ bản trước:
+Chạy tại thư mục ứng dụng đã có đủ file từ bản trước:
 
 ```sh
 python3 build.py
 node tests/verify.cjs
 ```
 
-Python 3 và Node.js không cần thư viện ngoài cho hai lệnh này. Kiểm tra bằng DOM mô phỏng xác nhận luồng dữ liệu và sự kiện; không thay thế kiểm tra trực quan trong trình duyệt.
+Không cần thư viện ngoài cho hai lệnh này. Đã kiểm tra tìm kiếm từ giải nghĩa, ký tự giữa/cuối và truy vấn ngắn, sự độc lập của hai cột so sánh, liên kết chính xác, danh sách theo phần và tính nguyên vẹn của nội dung Word.
 
-## Nhận diện và giới hạn kiểm tra
+Đã đối chiếu 62 tiêu đề, 134 đoạn giải thích và 214 đoạn nguồn với Word. Nội dung nguyên văn, bao gồm cách viết và khoảng trắng của nguồn, được giữ trong dữ liệu. Bốn ô mục đích sử dụng trên trang chủ tiếp tục bỏ dấu hai chấm và khoảng trắng đầu mô tả theo feedback đã duyệt.
 
-Giữ nguyên ảnh logo và nền tòa nhà đã cung cấp. Sử dụng các màu #59798F, #3E5B6C, #C4AA78, #E7DDC9, #212121 và #FFFFFF, cùng biến thể độ trong suốt.
+## Nhận diện và giới hạn
 
-CSS ưu tiên UTM Hanzel và SVN Gotham. Chưa được cung cấp file font chính thức nên vẫn có Arial dự phòng trên máy chưa cài font. Có thể dùng các tùy chọn `--heading-font`, `--body-font`, `--body-bold-font` của `build.py` để nhúng font được cấp phép như ở bản trước.
+Giữ nguyên logo và ảnh nền đã cung cấp; sử dụng bảng màu IPA. CSS ưu tiên UTM Hanzel và SVN Gotham; vẫn có Arial dự phòng do chưa được cung cấp font chính thức. Có thể nhúng font được cấp phép bằng tùy chọn `--heading-font`, `--body-font`, `--body-bold-font` của `build.py`.
 
-Đã kiểm tra cú pháp, tìm kiếm, bộ lọc theo phần, danh sách nhảy nhanh, khôi phục vị trí, thao tác đổi lựa chọn của cả hai cột so sánh, toàn bộ nội dung Word và tính đầy đủ của ZIP. Chưa kiểm tra hiển thị trên trình duyệt thật trong phiên thực hiện này.
+Kiểm tra logic sử dụng DOM mô phỏng; chưa kiểm tra hiển thị trên trình duyệt thật trong phiên này. Hiệu ứng tôn trọng thiết lập giảm chuyển động của thiết bị.
 
 Chưa đóng gói SCORM theo phạm vi hiện tại.
