@@ -98,3 +98,9 @@
 @media(max-width:1200px){.home-guide>div{grid-template-columns:repeat(2,minmax(0,1fr))}.home-guide article+article{border-left:0;padding-left:0}.home-guide article:nth-child(2n){border-left:1px solid var(--line);padding-left:22px}}
 @media(max-width:900px){.mobile-menu-open #menu-toggle{position:fixed;top:14px;right:18px;z-index:40;background:var(--white);box-shadow:0 3px 14px rgba(33,33,33,.18)}}
 @media(max-width:600px){.home-guide{padding:22px}.home-guide>div{grid-template-columns:1fr;gap:16px}.home-guide article:nth-child(2n){border-left:0;padding-left:0}.home-guide article+article{border-top:1px solid var(--line);padding-top:16px}.inline-title .inline-key{font-size:23px}}
+/* 5.2: show comparison matches directly, with native click and keyboard selection. */
+.compare-pane select[size]{height:224px;min-height:224px;padding:6px;overflow:auto;line-height:1.6;white-space:normal;accent-color:var(--blue)}
+.compare-pane select[size] option{padding:8px 10px;white-space:normal;line-height:1.6;border-radius:4px}
+.compare-pane select[size] option:checked{background:var(--sand);color:var(--deep)}
+.compare-pane select[size] option:disabled{color:var(--deep);font-size:13px}
+#search-input::-webkit-search-cancel-button{-webkit-appearance:none}
