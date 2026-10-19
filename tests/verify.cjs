@@ -37,5 +37,17 @@ for(const [pos,query,key]of [[0,'TAC','TAC'],[1,'FC','FC']]){
 check("termMap.get(compareIds[0]).key==='TAC'&&termMap.get(compareIds[1]).key==='FC'");
 a.dispatch('input',{target:{dataset:{compareSearch:'0'},value:'zz991nomatch'}});check('compareMatches(0).length===0');check("compareSelectOptions(0).includes('Không tìm thấy')");
 a.run("s.view='lookup';s.section='IPAM';s.q='OC';window.scrollY=1350;jumpTo('term-tac')");check("s.section==='ILEAD'&&s.q===''&&jumpTrail.length===1");a.run('jumpBack()');check("s.section==='IPAM'&&s.q==='OC'&&window.scrollY===1350");
+
+check("!home().includes('side-close')");
+check("home().includes('Hướng dẫn sử dụng')&&home().includes('So sánh hai thuật ngữ')");
+check("!lookup().includes('guide-title')&&!lookup().includes('Ba cách tra cứu')");
+check("!lookupResults().includes('class=\"inline-full\"')");
+for(const q of ['mi','MI']){a.run(`s.q=${JSON.stringify(q)};s.section='all'`);check("['GMI','AMI','VMI','PMI','BMI'].every(key=>results().some(r=>r.t.key===key))")}
+a.run("s.q='vc'");check("results().some(r=>r.t.key==='FVC')");
+a.run("s.q='c'");check("results().some(r=>r.t.key==='FC')&&results().some(r=>r.t.key==='OC')");
+a.run("s.q='tắc nghẽn';s.section='all'");check("results().some(r=>r.t.key==='TAC')");
+for(const pos of [0,1]){a.run(`compareQueries[${pos}]='tắc nghẽn'`);check(`compareMatches(${pos}).some(t=>t.key==='TAC')`);a.run(`compareQueries[${pos}]='uon'`);check(`compareMatches(${pos}).some(t=>t.key==='CU')`)}
+a.run("compareQueries[0]='';compareQueries[1]='';s.q='';s.section='all'");
+
 const out={home:a.run('home()'),lookup:a.run("s.section='all';s.q='';lookup()"),compare:a.run('compare()')};if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(out));
 console.log('PASS',n,'targeted checks: continuous glossary, section-specific term directory, exact links, native comparison change events, search, jump/return state.');
