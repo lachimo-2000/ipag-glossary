@@ -49,5 +49,21 @@ a.run("s.q='tắc nghẽn';s.section='all'");check("results().some(r=>r.t.key===
 for(const pos of [0,1]){a.run(`compareQueries[${pos}]='tắc nghẽn'`);check(`compareMatches(${pos}).some(t=>t.key==='TAC')`);a.run(`compareQueries[${pos}]='uon'`);check(`compareMatches(${pos}).some(t=>t.key==='CU')`)}
 a.run("compareQueries[0]='';compareQueries[1]='';s.q='';s.section='all'");
 
+
+// Typing alone must filter the detailed content; no submit or suggestion selection.
+a.run("s.view='lookup';s.section='all';s.q='';render()");
+a.dispatch('input',{target:{id:'search-input',dataset:{},value:'HWG'}});
+check("s.q==='HWG'");check("results().length===2");
+check("$('lookup-results').innerHTML.includes('entry-term-hwg')&&$('lookup-results').innerHTML.includes('entry-term-ipam')");
+check("!$('lookup-results').innerHTML.includes('entry-term-ipa\"')");
+a.dispatch('input',{target:{id:'search-input',dataset:{},value:'tắc nghẽn'}});
+check("s.q==='tắc nghẽn'&&results().some(r=>r.t.key==='TAC')");
+check("($('lookup-results').innerHTML.match(/class=\"inline-term\"/g)||[]).length===results().length".replace('\\$','$'));
+a.dispatch('input',{target:{id:'search-input',dataset:{},value:'zz991nomatch'}});check("$('lookup-results').innerHTML.includes('Chưa tìm thấy kết quả')");
+a.dispatch('input',{target:{id:'search-input',dataset:{},value:''}});check("s.q===''&&results().length===62");
+check("(compare().match(/select size=\"6\"/g)||[]).length===2");
+check("!compareSelectOptions(0).includes(' · ')");
+a.run("s.q='';s.section='all';compareQueries[0]='';compareQueries[1]=''");
+
 const out={home:a.run('home()'),lookup:a.run("s.section='all';s.q='';lookup()"),compare:a.run('compare()')};if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(out));
 console.log('PASS',n,'targeted checks: continuous glossary, section-specific term directory, exact links, native comparison change events, search, jump/return state.');
